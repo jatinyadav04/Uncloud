@@ -1,0 +1,3138 @@
+{
+  "chats": [
+    {
+      "chatId": "5cd2b3bd-43f9-4d6c-9c2f-6ec6464b453c",
+      "userId": "6803fd98ce2f76647e1ef73b",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I had a relapse yesterday",
+          "timestamp": "2025-04-23T11:19:55.680570"
+        },
+        {
+          "role": "assistant",
+          "content": "It's okay.  Relapses happen.  Don't beat yourself up about it.  Focus on what you can do *now* to get back on track.  \n\nWhat helped you before?  Let's try that again.  Perhaps a distraction technique?  Deep breathing exercises?  Or maybe reaching out to your support network?\n\nStrong cravings?  We have some helpful videos in the app showing coping techniques.  Check those out and let\u2019s plan your next steps together.  You've got this!\n",
+          "timestamp": "2025-04-23T11:19:57.951751"
+        },
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-04-23T11:20:49.282914"
+        },
+        {
+          "role": "assistant",
+          "content": "I understand.  Strong cravings are tough, but they will pass. Let's try some quick coping strategies.\n\nTry this:  Deep breaths \u2013 in through your nose, out through your mouth, slowly.  Drink some water.  Go for a short walk.  Distract yourself \u2013 listen to music, call a friend.\n\nOur app has some guided relaxation videos that might help.  Find them in the \"Coping Mechanisms\" section.  Let me know how you're feeling after trying a few of these.  You can do this!\n",
+          "timestamp": "2025-04-23T11:20:50.500951"
+        }
+      ]
+    },
+    {
+      "chatId": "fca3164e-0862-4b3e-b0c2-6c263066a3c3",
+      "userId": "6803fd98ce2f76647e1ef73b",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-04-23T11:30:02.955826"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings can be tough, but they don't last forever. Since you're experiencing a strong craving, I think you might find some helpful techniques in our video library.\n\nIn the meantime, try these quick strategies:\n\n*   **The 4 D's:** Delay acting on the craving, Drink water, Do something else to distract yourself, Deep breathe.\n*   **Change your environment:** Step away from where you are and move to a new location.\n\nCheck out the videos for more in-depth advice! You've got this.\n",
+          "timestamp": "2025-04-23T11:30:05.450890"
+        }
+      ]
+    },
+    {
+      "chatId": "73bfa6b6-608c-49ab-911a-33a29aca8dd6",
+      "userId": "6803fd98ce2f76647e1ef73b",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-04-23T11:30:05.473616"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings can be tough, but they *will* pass.\n\nHere's a few things you can try right now:\n\n*   **The 4 D's:** Delay (wait a few minutes), Deep breathe (calm your body), Drink water (occupy your mouth), Do something else (distract your mind).\n*   **Change your environment:** Step outside, move to a different room, anything to break the association with smoking.\n\nAlso, some people find helpful videos in the app's resources section. You might find some helpful tips there! You've got this!\n",
+          "timestamp": "2025-04-23T11:30:06.962308"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2025-04-23T11:31:37.772017"
+        },
+        {
+          "role": "assistant",
+          "content": "Hey, it's okay. Relapses happen, and they don't erase the progress you've made. The important thing is to learn from it and get back on track.\n\nDon't beat yourself up about it. Think about what triggered the relapse and how you can handle similar situations differently in the future. Maybe check out some videos in the app's resources section for tips on managing triggers. Now is the time to recommit to your quit plan! You can do this.\n",
+          "timestamp": "2025-04-23T11:31:40.649934"
+        },
+        {
+          "role": "user",
+          "content": "I had a relapse yesterday",
+          "timestamp": "2025-04-23T11:31:40.665292"
+        },
+        {
+          "role": "assistant",
+          "content": "Hey, it's okay. Relapses happen, and they don't erase the progress you've made. The important thing is to learn from it and get back on track.\n\nDon't beat yourself up about it. Think about what triggered the relapse and how you can handle similar situations differently in the future. Some people find helpful videos in the app's resources section for tips on managing triggers. Now is the time to recommit to your quit plan! You can do this.\n",
+          "timestamp": "2025-04-23T11:31:41.667249"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: What should I do when I feel like smoking?",
+          "timestamp": "2025-04-23T11:31:56.463341"
+        },
+        {
+          "role": "assistant",
+          "content": "It's great that you're thinking ahead and preparing for cravings! When you feel the urge to smoke, try these quick techniques:\n\n*   **Delay:** Tell yourself you'll wait 10 minutes. Often the craving will pass.\n*   **Distract:** Engage in something else \u2013 listen to music, do a chore, or talk to a friend.\n*   **Deep Breathe:** Practice deep, slow breaths to calm your nervous system.\n\nYou might also find some helpful videos in the app's resource section with more tips and strategies!\n",
+          "timestamp": "2025-04-23T11:31:57.794057"
+        },
+        {
+          "role": "user",
+          "content": "What should I do when I feel like smoking?",
+          "timestamp": "2025-04-23T11:31:57.823213"
+        },
+        {
+          "role": "assistant",
+          "content": "It's great that you're reaching out! When a craving hits, remember the \"4 D's\":\n\n*   **Delay:** Put off smoking for a set amount of time (like 10 minutes).\n*   **Distract:** Do something to take your mind off smoking, like a quick chore or a walk.\n*   **Deep Breathe:** Take slow, deep breaths to relax.\n*   **Drink Water:** Cravings can sometimes be confused with thirst.\n\nAlso, check out the videos section of the app for more tips. You've got this!\n",
+          "timestamp": "2025-04-23T11:31:59.129554"
+        }
+      ]
+    },
+    {
+      "chatId": "23bf1d5f-2a70-4d82-9772-3e4090009cfc",
+      "userId": "6803fd98ce2f76647e1ef73b",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2025-04-23T11:39:39.234331"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm sorry to hear about your relapse yesterday, but don't beat yourself up about it. Relapses are a common part of quitting. The important thing is that you're back at it today!\n\nThink about what triggered the relapse. Understanding your triggers will help you avoid them in the future.\n\nTo help get back on track, check out the videos in the app \u2013 there are some great ones about managing cravings and staying motivated. You've got this! Just keep focusing on the reasons why you want to quit.\n",
+          "timestamp": "2025-04-23T11:39:40.783791"
+        }
+      ]
+    },
+    {
+      "chatId": "d570f6e1-43be-4af4-b174-01b98b79f10b",
+      "userId": "6803fd98ce2f76647e1ef73b",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I had a relapse yesterday",
+          "timestamp": "2025-04-23T11:39:40.814989"
+        },
+        {
+          "role": "assistant",
+          "content": "Hey, it happens. Relapses are a normal part of quitting, so don't beat yourself up. The important thing is you're back at it!\n\nThink about what triggered the relapse. Knowing that can help you avoid it next time. What were you feeling? Where were you?\n\nNow, let's focus on moving forward. Do you want to review some strategies to manage cravings? There are some helpful videos in the app that you might find useful. Let's get you back on track!\n",
+          "timestamp": "2025-04-23T11:39:42.220831"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-04-23T11:44:04.128715"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there, you've got this! Strong cravings are tough, but they *will* pass.\n\nWhy not try some quick craving-busting techniques? Things like deep breathing, drinking a glass of water, or distracting yourself with a quick chore can really help.\n\nYou might also find some helpful videos in the app that offer guided exercises or further tips for managing cravings. They can be a great way to ride out these intense moments.\n",
+          "timestamp": "2025-04-23T11:44:05.603883"
+        },
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-04-23T11:44:05.618886"
+        },
+        {
+          "role": "assistant",
+          "content": "I understand. Cravings can be really intense! Remember that this feeling is temporary.\n\nLet's try to tackle it head-on. Can you try some of these techniques?\n\n*   **The 4 D's:** *Delay* acting on the craving, *Deep breathe*, *Drink water*, and *Distract* yourself.\n\nAlso, check out the videos in the app. They have some excellent strategies to help you get through this! You're stronger than this craving.\n",
+          "timestamp": "2025-04-23T11:44:06.979937"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: Can you suggest some coping techniques?",
+          "timestamp": "2025-04-23T11:44:19.403073"
+        },
+        {
+          "role": "assistant",
+          "content": "Absolutely! Here are a few coping techniques you can try:\n\n*   **Mindfulness:** Focus on your breath and the present moment.\n*   **Exercise:** Even a short walk can make a big difference.\n*   **Distraction:** Engage in a hobby or activity you enjoy.\n*   **Social Support:** Talk to a friend, family member, or support group.\n\nThe videos in the app have some fantastic demonstrations and deeper dives into these techniques, which might be helpful. Keep going \u2013 you're doing great!\n",
+          "timestamp": "2025-04-23T11:44:20.588303"
+        },
+        {
+          "role": "user",
+          "content": "Can you suggest some coping techniques?",
+          "timestamp": "2025-04-23T11:44:20.603165"
+        },
+        {
+          "role": "assistant",
+          "content": "Of course! Here are some more coping techniques that might help you navigate cravings and triggers:\n\n*   **Change your routine:** Altering your daily schedule can help you avoid situations that trigger cravings.\n*   **Nicotine Replacement Therapy (NRT):** If you're using NRT, ensure you're using it correctly and consistently.\n*   **Reward yourself:** Acknowledge your progress with healthy rewards to stay motivated.\n*   **Identify triggers:** Recognizing what situations or emotions lead to cravings helps you prepare strategies in advance.\n\nRemember to explore the videos in the app for visual guides and additional support. You've got this!\n",
+          "timestamp": "2025-04-23T11:44:22.082912"
+        }
+      ]
+    },
+    {
+      "chatId": "d6a18b74-1539-4795-81e4-1c520ee9c711",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-04-23T18:10:47.012940"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings are tough, but they *will* pass. Since you're having a strong craving right now, I suggest checking out the videos in the app. They offer a lot of helpful techniques. Some users find that deep breathing, doing a quick chore, or even just distracting themselves for a few minutes can really help. You've got this!\n",
+          "timestamp": "2025-04-23T18:10:48.336076"
+        }
+      ]
+    },
+    {
+      "chatId": "5c9415cd-7f4e-403c-a49f-5e956b8cac5e",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-04-23T18:10:50.022000"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm sorry to hear you're having a strong craving. That's completely normal, and it means you're working hard! Here's what you can do right now:\n\n*   **The 4 D's:**\n    *   **Delay:** Wait 5-10 minutes, and the craving might pass.\n    *   **Distract:** Do something engaging to take your mind off it.\n    *   **Drink Water:** Sip on water slowly.\n    *   **Deep Breaths:** Practice slow, deep breathing.\n\nYou might also find some helpful videos in the app for dealing with cravings. You've got this!\n",
+          "timestamp": "2025-04-23T18:10:51.640825"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: What should I do when I feel like smoking?",
+          "timestamp": "2025-04-23T18:10:55.835825"
+        },
+        {
+          "role": "assistant",
+          "content": "It's great that you're proactively thinking about this! When you feel the urge to smoke, remember those 4 D's: **Delay, Distract, Drink Water, and Deep Breathe.**\n\nAlso, try to identify what triggers these feelings. Is it a certain time of day, a place, or an emotion? Knowing your triggers can help you prepare coping strategies in advance.\n\nThere are also some very helpful videos in the app that offer different techniques and perspectives on managing cravings. Keep up the great work!\n",
+          "timestamp": "2025-04-23T18:10:57.576068"
+        },
+        {
+          "role": "user",
+          "content": "What should I do when I feel like smoking?",
+          "timestamp": "2025-04-23T18:10:57.603663"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely normal to feel like smoking, especially early in your quit journey. The 4 D's are a good place to start: **Delay, Distract, Drink Water, and Deep Breathe.**\n\nAlso, think about what's making you want to smoke right now. Is it stress, boredom, or being around other smokers? Once you identify the trigger, you can choose a coping strategy. If it's stress, try a quick meditation. If it's boredom, try a quick walk.\n\nDon't forget to check out the videos in the app for more tips and support! You've got this!\n",
+          "timestamp": "2025-04-23T18:10:59.174498"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: aur batao kya ha",
+          "timestamp": "2025-04-23T18:11:18.225934"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand you're looking for more resources. We have videos covering a range of topics, including dealing with specific triggers, success stories from others who have quit, and even relaxation techniques to manage cravings. I recommend browsing through the different categories to see what catches your eye! You might find something that resonates with you and provides the extra support you need right now. Keep exploring - you're doing great!\n",
+          "timestamp": "2025-04-23T18:11:19.541949"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: aur batao kya hal",
+          "timestamp": "2025-04-23T18:11:19.568238"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you are still looking for more! Our video library is packed with helpful content. Beyond the specific triggers and relaxation techniques, you can also find information about the science of nicotine addiction and its effects on the body. Understanding the \"why\" behind the cravings can sometimes make them easier to manage. Have a look through the descriptions and see if anything piques your interest. Remember, every little bit of knowledge helps!\n",
+          "timestamp": "2025-04-23T18:11:20.822195"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: aur batao kya ha",
+          "timestamp": "2025-04-23T18:11:20.852531"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you! Still searching for more videos. Besides the trigger management and addiction science videos, we also have some focused on mindfulness and meditation techniques. These can be great for managing anxiety and stress, which often contribute to cravings. You can also find videos on exercises that can help distract you and provide a healthy outlet. Explore the options, and see if any of those sound helpful right now. Keep up the great work!\n",
+          "timestamp": "2025-04-23T18:11:22.348827"
+        },
+        {
+          "role": "user",
+          "content": "aur batao kya haal",
+          "timestamp": "2025-04-23T18:11:22.372721"
+        },
+        {
+          "role": "assistant",
+          "content": "Hi! It sounds like you are doing some more video searching. We have some videos on setting realistic goals and celebrating small victories. Quitting smoking is a marathon, not a sprint, and acknowledging your progress can be really motivating. You can also find stories from others who have successfully quit, which can be incredibly inspiring. Keep exploring and find what resonates with you!\n",
+          "timestamp": "2025-04-23T18:11:23.590818"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: i want to quit tod",
+          "timestamp": "2025-04-23T18:11:40.968537"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. Searching for videos related to quitting today. We have videos covering topics like managing triggers, understanding nicotine addiction, and coping with cravings. You might also find it helpful to check out videos on relaxation techniques and mindfulness. Remember, every step you take, big or small, is a step in the right direction. Keep going!\n",
+          "timestamp": "2025-04-23T18:11:42.120258"
+        },
+        {
+          "role": "user",
+          "content": "i want to quit today",
+          "timestamp": "2025-04-23T18:11:44.396397"
+        },
+        {
+          "role": "assistant",
+          "content": "That's great! Deciding to quit is the first and most important step. Since you're ready to quit today, I suggest watching some videos on managing triggers and understanding nicotine addiction, which can help you prepare for the challenges ahead. Focus on taking it one craving at a time and rewarding yourself for each milestone you achieve. You've got this!\n",
+          "timestamp": "2025-04-23T18:11:45.502214"
+        }
+      ]
+    },
+    {
+      "chatId": "7f94feec-6e42-4d15-87fc-a3d70e1922eb",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: How long do nicotine cravings usually last?",
+          "timestamp": "2025-04-23T18:52:22.600263"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I can help with that.\n\nNicotine cravings usually last for about 5-20 minutes. While that might feel like a long time, remember they *will* pass! The intensity will lessen over time as you stay smoke-free.\n\nKnowing how long they last can help you mentally prepare to ride them out. Try some quick distraction techniques like deep breathing, drinking water, or doing a quick chore. You might also find some helpful videos in the app with more tips! You've got this!\n",
+          "timestamp": "2025-04-23T18:52:25.573225"
+        }
+      ]
+    },
+    {
+      "chatId": "46fbd475-0c10-4551-bdba-757b745a6f97",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "How long do nicotine cravings usually last?",
+          "timestamp": "2025-04-23T18:52:25.617211"
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great question! Nicotine cravings are different for everyone, but they usually peak within the first few days of quitting and then gradually decrease over the next few weeks. An individual craving itself usually lasts only a few minutes.\n\nThe intensity and frequency will lessen over time. Hang in there! In the meantime, try some quick strategies to distract yourself when a craving hits. Things like drinking a glass of water, doing some stretches, or calling a friend can really help. You might find our videos helpful too, they have useful tips and tricks! You've got this!\n",
+          "timestamp": "2025-04-23T18:52:27.298811"
+        }
+      ]
+    },
+    {
+      "chatId": "383905b1-833d-4bdb-aacc-47dc69ae7afc",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-04-23T21:11:42.701449"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-04-23T21:12:40.459490"
+        }
+      ]
+    },
+    {
+      "chatId": "86534a17-bd74-4575-a3ef-82879461b9e4",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-04-23T21:12:40.505936"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-04-23T21:13:40.260005"
+        }
+      ]
+    },
+    {
+      "chatId": "c1d1eabb-f932-4aef-a746-e5df731b8b35",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2025-04-23T21:13:40.290381"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-04-23T21:14:34.713754"
+        }
+      ]
+    },
+    {
+      "chatId": "d6e0925d-76b8-443f-b672-477028cb185f",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-04-23T21:20:43.284155"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings are tough, but they don't last forever. Since you're experiencing a strong craving right now, I suggest watching some videos. They can give you tips and distractions to help you through this moment. Maybe try searching for videos on \"distraction techniques for cravings\" or \"mindfulness for smokers.\" You've got this!\n",
+          "timestamp": "2025-04-23T21:20:44.729603"
+        }
+      ]
+    },
+    {
+      "chatId": "ee717c18-33ed-4d1c-b8d4-b8bb91f68f4d",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-04-23T21:20:44.761617"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings can be tough, but they don't last forever. Here are a few things you can try:\n\n*   **Distract yourself:** Do something that occupies your mind, like reading, listening to music, or doing a chore.\n*   **The 4 D's:** Delay (wait it out \u2013 it will pass!), Distract (yourself with an activity), Drink water, Deep breathe.\n*   **Call a friend:** Talking to someone can help take your mind off the craving.\n\nYou might also find helpful videos in the app on managing cravings. You've got this!\n",
+          "timestamp": "2025-04-23T21:20:46.431287"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: but i really want to smoke i cannot ",
+          "timestamp": "2025-04-23T21:21:00.928935"
+        },
+        {
+          "role": "assistant",
+          "content": "I understand. It's incredibly tough when you feel like you absolutely *cannot* resist. Remember how far you've come! Don't beat yourself up. Let's refocus.\n\nTry revisiting those craving management videos in the app - sometimes just hearing those tips again can make a difference. Focus on the 4 D's: Delay, Distract, Drink water, and Deep Breathe. Can you get through the next 5 minutes without smoking? Then the next 5 after that? You are stronger than this craving.\n",
+          "timestamp": "2025-04-23T21:21:02.312760"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: but i really want to smoke i cannot sst",
+          "timestamp": "2025-04-23T21:21:02.332555"
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you. That feeling of needing a cigarette *right now* is so intense. You're not alone, and it's okay to feel this way. Don't give up on yourself!\n\nTry watching some of the craving management videos in the app again - they might help you remember some coping strategies in the moment. In the meantime, focus on your breathing. Slow, deep breaths can really calm those urgent feelings. Can you hold on just a little longer?\n",
+          "timestamp": "2025-04-23T21:21:05.493791"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: but i really want to smoke i cannot stop myslef",
+          "timestamp": "2025-04-23T21:21:05.509941"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely understandable that you're feeling overwhelmed. That urge to smoke can feel incredibly powerful. Don't feel like you've failed! You're still in the fight.\n\nHave you tried looking at the videos about managing cravings? Sometimes seeing them again can give you a needed boost and remind you of helpful strategies. Can you try distracting yourself for just 10 minutes? Maybe a quick walk, listening to music, or calling a friend? You've got this!\n",
+          "timestamp": "2025-04-23T21:21:07.205290"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: but i really want to smoke i cannot stop myself what should i do",
+          "timestamp": "2025-04-23T21:21:10.998950"
+        },
+        {
+          "role": "assistant",
+          "content": "I know exactly how you feel. It's so tough when you feel like you can't control the urge. The important thing is you're recognizing it and reaching out.\n\nI recommend watching a quick video in the app \u2013 maybe one about dealing with strong cravings or relapse prevention? Sometimes a visual reminder of strategies can make a difference. Also, try to identify what's triggering this intense craving. Knowing your triggers can help you develop a plan to manage them in the future. You can get through this!\n",
+          "timestamp": "2025-04-23T21:21:14.709735"
+        },
+        {
+          "role": "user",
+          "content": "but i really want to smoke i cannot stop myself what should i do",
+          "timestamp": "2025-04-23T21:21:14.725755"
+        },
+        {
+          "role": "assistant",
+          "content": "I understand. It's really hard when you feel like you're losing control. Don't beat yourself up about it; this is a normal part of the process.\n\nSeriously consider checking out the videos in the app \u2013 sometimes hearing those tips again can be really helpful. In the meantime, can you try the 5 D's? Delay (wait a few minutes), Distract yourself, Drink water, Deep breathe, and Discuss your feelings with someone. You're stronger than you think!\n",
+          "timestamp": "2025-04-23T21:21:16.103795"
+        }
+      ]
+    },
+    {
+      "chatId": "bc4028c3-d6d6-4dec-9c43-5b0ed50f49b5",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-09-19T21:13:37.703457"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-09-19T21:13:38.037809"
+        }
+      ]
+    },
+    {
+      "chatId": "9d13e1c9-f5eb-4eb6-9386-b04f7e2a5568",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-09-19T21:13:38.326385"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-09-19T21:13:39.332315"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'm feeling anxious without cigarettes",
+          "timestamp": "2025-09-19T21:13:46.750502"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-09-19T21:13:47.085668"
+        },
+        {
+          "role": "user",
+          "content": "I'm feeling anxious without cigarettes",
+          "timestamp": "2025-09-19T21:13:47.907270"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-09-19T21:13:48.372298"
+        }
+      ]
+    },
+    {
+      "chatId": "a54ce0e6-8432-4269-b7f1-060f5ac13c34",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-09-19T22:25:52.892676"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings can be tough, but they don't last forever. It might be helpful to watch some videos on dealing with cravings - I can find some for you. In the meantime, try some deep breathing exercises, drink a glass of water, or distract yourself with a quick activity. You've got this!\n",
+          "timestamp": "2025-09-19T22:25:55.363340"
+        }
+      ]
+    },
+    {
+      "chatId": "74cff594-45a0-4ed3-902e-f8ee8917b650",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-09-19T22:25:55.369922"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings are tough, but they *will* pass. Let's try a quick technique:\n\n*   **Delay:** Tell yourself you'll wait just 10 minutes. Often the craving will lessen in that time.\n*   **Distract:** Do something completely different! Walk around, listen to music, anything to shift your focus.\n*   **Deep Breathe:** Inhale deeply for 4 seconds, hold for 4, exhale for 6. Repeat several times.\n\nYou might also find some of our videos on dealing with cravings helpful. You've got this!\n",
+          "timestamp": "2025-09-19T22:25:56.896806"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'm feeling anxious without cigarettes",
+          "timestamp": "2025-09-19T22:26:07.008681"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely normal to feel anxious when you're quitting. Your body is used to nicotine, and adjusting takes time.\n\nTry these techniques:\n\n*   **Breathing exercises:** Just like with cravings, deep, slow breaths can really calm your nerves.\n*   **Stay active:** A walk or any physical activity can help release tension.\n*   **Mindfulness:** Focus on the present moment. Notice your surroundings and sensations without judgment.\n\nWe also have some videos that offer relaxation techniques and tips for managing anxiety during your quit journey. You're doing great!\n",
+          "timestamp": "2025-09-19T22:26:08.611224"
+        },
+        {
+          "role": "user",
+          "content": "I'm feeling anxious without cigarettes",
+          "timestamp": "2025-09-19T22:26:08.618232"
+        },
+        {
+          "role": "assistant",
+          "content": "It's understandable that you're feeling anxious. Nicotine withdrawal can definitely cause that. Remember that this feeling is temporary and it *will* get better.\n\nHere are a few things you can try:\n\n*   **Identify Triggers:** What situations or thoughts make you feel most anxious? Knowing your triggers can help you prepare.\n*   **Talk it Out:** Call a friend, family member, or support person. Talking about your feelings can make a big difference.\n*   **Hydrate:** Drink plenty of water. Dehydration can sometimes worsen anxiety symptoms.\n\nYou might also find some videos on managing anxiety helpful. You're not alone in this, and you've got the strength to get through it!\n",
+          "timestamp": "2025-09-19T22:26:10.630379"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'd like to watch videos about managing nicotine withdrawal symptoms",
+          "timestamp": "2025-09-19T22:26:15.610367"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, searching for videos about managing nicotine withdrawal symptoms. Withdrawal can be tough, but you're taking a great step in learning how to manage it. The right techniques can make a huge difference. These videos should give you some practical tips and strategies to help you through this. Remember to be patient with yourself, and celebrate every small victory. You've got this!\n",
+          "timestamp": "2025-09-19T22:26:16.911594"
+        }
+      ]
+    },
+    {
+      "chatId": "78ebe3d3-8792-46d5-b1ca-55e831645603",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-09-19T23:45:35.966144"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings can be tough, but they don't last forever. Since you're having a strong craving, you might find some helpful distraction and coping techniques in our video library. I suggest checking those out now.\n\nIn the meantime, try these quick tips:\n\n*   **The 4 D's:** Delay acting on the craving, Drink water, Do something distracting, Deep breathe.\n*   **Change your environment:** Step away from where you are and do something else.\nYou've got this!\n",
+          "timestamp": "2025-09-19T23:45:37.541474"
+        }
+      ]
+    },
+    {
+      "chatId": "48e99e8d-00ae-4a5e-b6e4-f87e91892a69",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-09-19T23:45:37.545160"
+        },
+        {
+          "role": "assistant",
+          "content": "I understand. Strong cravings can be really tough. Here are a few things you can try right now:\n\n*   **The 4 D's:** Delay acting on the craving, Drink water, Do something else to distract yourself, and Deep breathe.\n*   **Engage your senses:** Chew gum, listen to music, or smell something pleasant.\n*   **Remind yourself why you're quitting:** Think about your health, your goals, and the money you're saving.\n\nYou might also find our videos helpful for dealing with cravings. Keep going, you've got this!\n",
+          "timestamp": "2025-09-19T23:45:39.074742"
+        }
+      ]
+    },
+    {
+      "chatId": "5d5661bb-2c8c-4edf-afe8-e893ea52783b",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-11-20T22:43:44.618543"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings can be tough, but they're temporary. Since you're having a strong craving, watching a video might help distract you and give you some new strategies. Have you checked out the video section? There are some great ones on dealing with cravings. In the meantime, try some deep breathing exercises or find a quick distraction, like a short walk or calling a friend. You've got this!\n",
+          "timestamp": "2025-11-20T22:43:46.635931"
+        }
+      ]
+    },
+    {
+      "chatId": "1dddc547-8523-4a36-adf0-dafb8dc4582a",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'd like to watch videos about 5 quick ways to stop cigarette cravings",
+          "timestamp": "2025-11-20T22:43:50.574669"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I've searched for videos on \"5 quick ways to stop cigarette cravings.\" I hope these videos give you some helpful tips and techniques to manage those cravings! You've got this!\n",
+          "timestamp": "2025-11-20T22:43:52.267966"
+        }
+      ]
+    },
+    {
+      "chatId": "0240e95e-8b7d-4c2f-b6da-9705d6510e23",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'd like to watch videos about 5 quick ways to stop cigarette cravings",
+          "timestamp": "2025-11-20T22:43:56.504822"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I can help with that! We have some great videos on quick techniques to manage cravings. They cover things like the 4 D's (Delay, Distract, Drink water, Deep breathe) and other helpful tips. I'll find those for you right now. In the meantime, remember that cravings are temporary, and you're strong enough to get through this!\n",
+          "timestamp": "2025-11-20T22:43:58.553708"
+        }
+      ]
+    },
+    {
+      "chatId": "6f54ef56-7f0f-4429-a20e-caa323457b1b",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-11-29T12:05:15.807641"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Cravings are tough, but they don't last forever. Since you're experiencing a strong craving, some find that watching a video can help distract and refocus their attention. Have you tried looking at the video resources in the app?\n\nIn the meantime, try these techniques:\n\n*   **Delay:** Tell yourself you'll wait 10 minutes before giving in. Often the craving will pass.\n*   **Deep Breathing:** Slow, deep breaths can help calm your body and mind.\n*   **Drink Water:** Sip on water to occupy your mouth and feel refreshed.\n\nYou've got this!\n",
+          "timestamp": "2025-11-29T12:05:17.465778"
+        }
+      ]
+    },
+    {
+      "chatId": "4051cd70-742f-423c-b43a-c871ca673a3e",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-11-29T12:05:17.471018"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Strong cravings are tough, but they *will* pass.\n\nHere are a few things you can try right now:\n\n*   **The 4 D's:** Delay (wait it out), Distract (do something else), Drink water, Deep breathe.\n*   **Change your environment:** Step outside, move to a different room.\n*   **Remind yourself why you're quitting:** Think about your goals and the benefits of being smoke-free.\n\nYou might also find some helpful videos in the app that offer visual techniques for managing cravings. You've got this!\n",
+          "timestamp": "2025-11-29T12:05:19.116562"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'm feeling anxious without cigarettes",
+          "timestamp": "2025-11-29T12:05:26.119214"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely normal to feel anxious when quitting smoking. Your body and mind are adjusting to being without nicotine.\n\nDid you know that anxiety is a common withdrawal symptom? Many people find that after the initial withdrawal period, their anxiety actually *decreases* significantly.\n\nVideos in the app can offer techniques for managing anxiety without cigarettes. Search for videos about managing stress and anxiety, mindful breathing, or even guided meditation. These can really help! You're stronger than you think.\n",
+          "timestamp": "2025-11-29T12:05:27.708398"
+        },
+        {
+          "role": "user",
+          "content": "I'm feeling anxious without cigarettes",
+          "timestamp": "2025-11-29T12:05:27.715680"
+        },
+        {
+          "role": "assistant",
+          "content": "It's understandable that you're feeling anxious. That nicotine withdrawal can really ramp up anxiety!\n\nTry some quick relaxation techniques: focus on your breath, tense and release your muscles, or try visualizing a peaceful place. Even a few minutes can make a difference.\n\nAlso, remember that this feeling is temporary. It WILL get better as your body adjusts. The videos in the app have lots of ideas to manage anxiety, so check them out when you can. You're doing great!\n",
+          "timestamp": "2025-11-29T12:05:29.229828"
+        }
+      ]
+    },
+    {
+      "chatId": "0a52c64d-dc41-4190-b4a1-d048e577ef28",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-13T22:44:34.812628"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-13T22:44:35.335185"
+        }
+      ]
+    },
+    {
+      "chatId": "ccfbdd57-1c57-4101-86b3-bc8a1719ddef",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-13T22:44:35.900056"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-13T22:44:36.030721"
+        }
+      ]
+    },
+    {
+      "chatId": "b069b33f-0271-40ab-9842-0e69adb744ad",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hello",
+          "timestamp": "2025-12-14T00:17:00.885276"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:17:01.406718"
+        }
+      ]
+    },
+    {
+      "chatId": "66087862-a2ed-44f8-81fb-79aedfedcf64",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-14T00:20:48.195371"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:20:48.338106"
+        }
+      ]
+    },
+    {
+      "chatId": "1f0ee6b4-e938-4ec0-8f11-1597e6f816fb",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-14T00:20:48.974971"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:20:49.095716"
+        }
+      ]
+    },
+    {
+      "chatId": "a33a2c82-588b-4d44-b417-14f740e4efbc",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-14T00:24:12.850872"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:24:12.996654"
+        }
+      ]
+    },
+    {
+      "chatId": "8cff9b02-7215-445f-a177-cf1d23fa85be",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-14T00:24:13.643238"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:24:13.759805"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2025-12-14T00:24:16.725301"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:24:16.846211"
+        },
+        {
+          "role": "user",
+          "content": "I had a relapse yesterday",
+          "timestamp": "2025-12-14T00:24:17.704112"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:24:17.826566"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: Can you suggest some coping techniques?",
+          "timestamp": "2025-12-14T00:24:20.979734"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:24:21.106656"
+        },
+        {
+          "role": "user",
+          "content": "Can you suggest some coping techniques?",
+          "timestamp": "2025-12-14T00:24:21.606706"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:24:21.749209"
+        }
+      ]
+    },
+    {
+      "chatId": "2a4d3ab8-146b-47bd-93c4-a1a52b28dc32",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hello",
+          "timestamp": "2025-12-14T00:25:41.709733"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:25:42.338377"
+        }
+      ]
+    },
+    {
+      "chatId": "6c199e60-3449-4960-ad16-9777bbf71d33",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a craving right now",
+          "timestamp": "2025-12-14T00:29:14.036128"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:29:14.751784"
+        }
+      ]
+    },
+    {
+      "chatId": "71db31b6-0bc7-426f-9b4c-338872b972d1",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a craving right now",
+          "timestamp": "2025-12-14T00:30:02.439764"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:30:02.695903"
+        }
+      ]
+    },
+    {
+      "chatId": "7adcf415-bee1-495f-8503-b0d47ec77c9e",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a craving right now",
+          "timestamp": "2025-12-14T00:31:08.214670"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2025-12-14T00:31:08.869850"
+        }
+      ]
+    },
+    {
+      "chatId": "7e172cb1-6943-46c6-bb8c-5f1b36ac5c47",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a craving right now",
+          "timestamp": "2025-12-14T00:36:45.598258"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to experience cravings when you\u2019re trying to quit. Don\u2019t feel bad about it \u2013 it\u2019s a sign you\u2019re still fighting the urge to smoke. \n\nIt\u2019s great that you\u2019re recognizing this now. Let\u2019s try to tackle it. \n\nWould you like to explore some quick techniques to help manage those cravings? We could try deep breathing, taking a walk, or focusing on something else entirely. \n\nIf you\u2019re feeling really overwhelmed, remember you\u2019ve made it this far \u2013 you\u2019re strong!  \n\nDo you want to know more about nicotine addiction or how to find helpful resources?",
+          "timestamp": "2025-12-14T00:36:47.626757"
+        }
+      ]
+    },
+    {
+      "chatId": "a19f70d3-e132-443d-a83f-1b2264367a54",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-14T00:37:35.402307"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really feeling a strong craving right now. That\u2019s completely normal when you\u2019re trying to quit, and it\u2019s great that you\u2019re recognizing it. \n\nDon\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting for yourself. Let\u2019s try to get you back on track.\n\nWould you like me to suggest some techniques to help you manage those cravings? We could try deep breathing, distraction techniques, or even a short walk. \n\nWould you like to learn more about nicotine addiction or how to find helpful resources?",
+          "timestamp": "2025-12-14T00:37:37.177767"
+        }
+      ]
+    },
+    {
+      "chatId": "4e9e5d37-3176-4763-8da1-a28e637505be",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-14T00:37:37.187952"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel a strong craving when you\u2019re trying to quit. Don\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting the urge to smoke. \n\nIt sounds like you\u2019re experiencing a difficult moment. Let\u2019s try to get you back on track. \n\nWould you like to explore some techniques to manage those cravings? Some things that can help include:\n\n*   **Deep breathing:** Take slow, deep breaths to calm your nervous system.\n*   **Distraction:** Engage in an activity you enjoy \u2013 a walk, a hobby, or calling a friend.\n*   **Drink water:** Sometimes thirst can mimic cravings.\n\nIf you\u2019d like to learn more about nicotine addiction or find helpful resources, I\u2019m here to help.",
+          "timestamp": "2025-12-14T00:37:38.815721"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2025-12-14T00:38:16.830715"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s understandable to feel disappointed and frustrated after a relapse. Quitting is a process, and setbacks are part of it. Don\u2019t let one slip-up discourage you. \n\nIt\u2019s great that you\u2019re recognizing it and wanting to get back on track. Let\u2019s focus on getting you back into the positive. \n\nWould you like to watch a video about strategies for managing cravings, or perhaps explore some resources that can offer support?",
+          "timestamp": "2025-12-14T00:38:18.242097"
+        },
+        {
+          "role": "user",
+          "content": "I had a relapse yesterday",
+          "timestamp": "2025-12-14T00:38:18.245844"
+        },
+        {
+          "role": "assistant",
+          "content": "It\u2019s completely okay to feel disappointed after a relapse. It\u2019s a common experience, and it doesn\u2019t mean you\u2019ve failed. Remember, every attempt to quit is a step forward. Let\u2019s focus on getting you back on track. \n\nWould you like to try a quick deep breathing exercise to help calm down? Or perhaps we could explore some resources that offer support and understanding?",
+          "timestamp": "2025-12-14T00:38:19.265215"
+        }
+      ]
+    },
+    {
+      "chatId": "eab35774-212f-4ec6-90e8-b8d09d7c7160",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: Can you suggest some coping techniques?",
+          "timestamp": "2025-12-14T00:39:24.384355"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, let\u2019s talk about coping with cravings! It\u2019s completely normal to experience strong urges when you\u2019re trying to quit. Quitting smoking is a huge accomplishment, and it\u2019s okay to feel frustrated. \n\nRemember, you\u2019re not alone in this. Cravings can be tough, but there are ways to manage them. \n\nHere are a few things that might help:\n\n*   **Deep breathing:** Take slow, deep breaths \u2013 in through your nose, out through your mouth.\n*   **Distraction:** Engage in an activity you enjoy \u2013 listen to music, call a friend, or do a quick chore.\n*   **Drink water:** Sometimes thirst can mimic cravings.\n\nIf you\u2019re struggling with intense cravings or feeling overwhelmed, don\u2019t hesitate to reach out to our resources \u2013 we\u2019ve got tips and support available. Would you like me to share some videos on coping strategies?",
+          "timestamp": "2025-12-14T00:39:26.227105"
+        }
+      ]
+    },
+    {
+      "chatId": "50ae8e98-9640-4a2d-829b-571568810ef2",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Can you suggest some coping techniques?",
+          "timestamp": "2025-12-14T00:39:26.232323"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, that\u2019s a really good question! It\u2019s completely normal to feel overwhelmed when trying to quit. It\u2019s fantastic that you\u2019re thinking about ways to cope \u2013 that shows you\u2019re committed to your goal.\n\nLet\u2019s talk about some techniques. Sometimes cravings are intense, and that\u2019s okay.  A simple thing you can try is taking a deep, slow breath.  Focus on the sensation of the air entering and leaving your body.  Another option is to distract yourself \u2013 maybe call a friend, go for a short walk, or engage in a hobby you enjoy.\n\nRemember, you\u2019re not alone in this, and setbacks happen.  Don\u2019t beat yourself up \u2013 just acknowledge the craving and gently redirect yourself.  Would you like to explore some resources about nicotine addiction or how to manage cravings further?",
+          "timestamp": "2025-12-14T00:39:27.606026"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'm feeling anxious without cigarettes",
+          "timestamp": "2025-12-14T00:39:33.729561"
+        },
+        {
+          "role": "assistant",
+          "content": "It\u2019s completely understandable to feel anxious when you\u2019re trying to quit smoking. That feeling is a common sign of withdrawal, and it\u2019s a really brave step you\u2019re taking to address it. It\u2019s okay to feel anxious \u2013 it\u2019s a sign your body is adjusting.\n\nLet\u2019s explore some techniques to help manage those anxious feelings. Sometimes, a quick distraction can work wonders \u2013 a short walk, listening to music, or even just focusing on a calming activity can help. \n\nWould you like me to suggest some resources about coping with anxiety, or perhaps we could look at some videos that offer strategies for managing cravings?",
+          "timestamp": "2025-12-14T00:39:34.993778"
+        },
+        {
+          "role": "user",
+          "content": "I'm feeling anxious without cigarettes",
+          "timestamp": "2025-12-14T00:39:34.999206"
+        },
+        {
+          "role": "assistant",
+          "content": "It\u2019s completely understandable to feel anxious when you\u2019re trying to quit. That anxiety is a sign your body is adjusting to the change. Take a deep breath \u2013 focusing on your breath can help ground you.  Sometimes a quick distraction \u2013 a walk, a song, or a simple activity \u2013 can ease the feeling.  Would you like me to share some resources about managing anxiety, or perhaps we could look at some videos that offer strategies for cravings?",
+          "timestamp": "2025-12-14T00:39:36.067549"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'd like to watch videos about natural remedies for smoking withdrawal",
+          "timestamp": "2025-12-14T00:39:44.094467"
+        },
+        {
+          "role": "assistant",
+          "content": "That\u2019s a great idea! It\u2019s fantastic you\u2019re exploring natural remedies. Many people find natural approaches helpful for managing withdrawal symptoms. There are some really effective videos out there that discuss things like herbal teas, relaxation techniques, and mindfulness. Would you like me to suggest a few links to videos focusing on those types of strategies?",
+          "timestamp": "2025-12-14T00:39:45.657951"
+        },
+        {
+          "role": "user",
+          "content": "I'd like to watch videos about natural remedies for smoking withdrawal",
+          "timestamp": "2025-12-14T00:39:46.975655"
+        },
+        {
+          "role": "assistant",
+          "content": "That\u2019s wonderful you\u2019re looking into natural remedies! It\u2019s a really supportive step. Remember, quitting is a process, and it\u2019s okay to have ups and downs. Don\u2019t get discouraged by any setbacks \u2013 they\u2019re part of the journey.  Let\u2019s find some videos together \u2013 I can suggest a few that focus on herbal teas, relaxation techniques, and mindfulness. Would you like me to do that?",
+          "timestamp": "2025-12-14T00:39:48.290759"
+        }
+      ]
+    },
+    {
+      "chatId": "5336870c-6dc8-4ae6-91d0-0d4714a706c9",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-14T00:55:25.180588"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really feeling a strong craving right now. That\u2019s completely normal when you\u2019re trying to quit, and it\u2019s a sign you\u2019re pushing yourself. Don\u2019t beat yourself up about it \u2013 it\u2019s a signal that your body needs support.\n\nLet\u2019s try to tackle this.  Sometimes cravings can be really intense. Have you tried any specific techniques to manage them?  \n\nWould you like me to suggest some quick, easy methods like deep breathing, taking a walk, or focusing on a different activity?  Or, if you\u2019d like to learn more about nicotine addiction and how it affects your body, I can share some helpful resources.",
+          "timestamp": "2025-12-14T00:55:27.271149"
+        }
+      ]
+    },
+    {
+      "chatId": "83abbcf5-fb72-482c-8064-09b4270de4b5",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-14T00:55:27.279902"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel a strong craving when you\u2019re trying to quit. Don\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting the urge!\n\nIt sounds like you\u2019re experiencing a difficult moment. Let\u2019s try to get you back on track. \n\nWould you like to explore some techniques to manage those cravings? We could try deep breathing, distracting yourself with a different activity, or even just taking a short walk. \n\nIf you\u2019d like to learn more about nicotine addiction or how to support your journey, I can point you to some helpful resources.  Would you like to hear about that?",
+          "timestamp": "2025-12-14T00:55:28.602741"
+        }
+      ]
+    },
+    {
+      "chatId": "ebd1a4f5-067e-4761-8bda-b16232689da2",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-14T17:43:48.602085"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really feeling a strong craving right now. That\u2019s completely normal when you\u2019re trying to quit, and it\u2019s great that you\u2019re recognizing it. \n\nDon\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting for yourself. Let\u2019s try to get you back on track.\n\nWould you like me to suggest some techniques to help you manage those cravings? We could explore things like distraction, deep breathing, or even a short walk. \n\nIf you\u2019d like to watch a video about quitting, I can point you to some helpful resources.  Just let me know!",
+          "timestamp": "2025-12-14T17:43:50.889329"
+        }
+      ]
+    },
+    {
+      "chatId": "2612a3c5-ae71-4c9d-b374-a18a0f6380a0",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-14T17:43:50.893302"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, that\u2019s completely understandable. It\u2019s really brave of you to acknowledge that craving. It\u2019s a common experience when you\u2019re trying to quit, and it\u2019s okay to feel that way. \n\nLet\u2019s take a moment to help you get through this.  Cravings can be intense, but they don\u2019t mean you\u2019ve failed.  \n\nWould you like to try a quick technique to manage it?  Sometimes a 10-minute distraction \u2013 like a walk, a cup of tea, or a few deep breaths \u2013 can help.  \n\nIf you\u2019d like to learn more about nicotine addiction or how Cleanslate can support you, I\u2019m here to help.  Would you like to explore some resources?",
+          "timestamp": "2025-12-14T17:43:52.688223"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: What should I do when I feel like smoking?",
+          "timestamp": "2025-12-14T17:44:03.498907"
+        },
+        {
+          "role": "assistant",
+          "content": "It\u2019s completely normal to feel that urge when you\u2019re struggling with cravings. Don\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re fighting for yourself. \n\nLet\u2019s try a quick distraction. A 10-minute walk, a cup of tea, or even just a few deep breaths can help shift your focus.  Remember, you\u2019ve made a commitment to quit, and every small step forward is a victory. \n\nWould you like to explore some resources about nicotine addiction or how Cleanslate can support you?",
+          "timestamp": "2025-12-14T17:44:05.019546"
+        },
+        {
+          "role": "user",
+          "content": "What should I do when I feel like smoking?",
+          "timestamp": "2025-12-14T17:44:05.029750"
+        },
+        {
+          "role": "assistant",
+          "content": "That\u2019s a really tough feeling! It\u2019s completely normal to experience those urges when you\u2019re trying to quit. Don\u2019t let them discourage you \u2013 they\u2019re a sign you\u2019re committed to change.\n\nLet\u2019s try a quick distraction. A 10-minute walk, a cup of tea, or even just a few deep breaths can help shift your focus. Remember, you\u2019ve made a commitment to quit, and every small step forward is a victory.\n\nWould you like to explore some resources about nicotine addiction or how Cleanslate can support you?",
+          "timestamp": "2025-12-14T17:44:06.263549"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'd like to watch videos about how much money do you save when you quit smoking?",
+          "timestamp": "2025-12-14T17:44:07.974156"
+        },
+        {
+          "role": "assistant",
+          "content": "That\u2019s a great question! It\u2019s fantastic you\u2019re thinking about the financial benefits of quitting. Many people find that quitting saves a significant amount of money over time. There are tons of videos out there that illustrate this \u2013 you might find them helpful for staying motivated. Let\u2019s explore some resources to help you track your savings and celebrate your progress!",
+          "timestamp": "2025-12-14T17:44:09.336562"
+        }
+      ]
+    },
+    {
+      "chatId": "cea7552e-d480-46e5-b33d-98c9c9347725",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-14T18:16:08.335632"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really feeling a strong craving right now. That\u2019s completely normal when you\u2019re trying to quit, and it\u2019s great that you\u2019re recognizing it. \n\nDon\u2019t beat yourself up about it \u2013 cravings are a sign your body is craving the nicotine. Let\u2019s try to tackle this together.\n\nHave you tried any coping mechanisms before, like taking a deep breath or going for a short walk? Sometimes a quick distraction can help. \n\nWould you like me to suggest some helpful videos on strategies for managing cravings, or perhaps some resources about nicotine addiction?",
+          "timestamp": "2025-12-14T18:16:09.896631"
+        }
+      ]
+    },
+    {
+      "chatId": "e2c0963d-7874-41cd-a504-d3e339658cd5",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-14T18:16:09.901491"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel a strong craving when you\u2019re trying to quit. It\u2019s a really common experience, and it doesn\u2019t mean you\u2019re failing.  \n\nLet\u2019s take a moment to address this.  It sounds like you\u2019re feeling really strong right now.  \n\nHere are a few things that might help:\n\n*   **Distract yourself:** Try a short walk, listening to music, or doing something you enjoy.\n*   **Deep breathing:** Take a few slow, deep breaths \u2013 in for 4, hold for 4, out for 6.\n*   **Drink water:** Sometimes a glass of water can help curb the craving.\n\nWould you like me to suggest some resources about nicotine addiction or help you explore some calming techniques?",
+          "timestamp": "2025-12-14T18:16:11.277545"
+        }
+      ]
+    },
+    {
+      "chatId": "9698ef84-d6a2-4cf4-b29d-d409796a8d9f",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm feeling anxious without cigarettes",
+          "timestamp": "2025-12-14T23:53:01.410416"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re feeling anxious without cigarettes, and that\u2019s a really common experience when trying to quit. It\u2019s completely normal to feel this way \u2013 it\u2019s a sign that your body and mind are adjusting. \n\nDon\u2019t worry, it\u2019s a sign you\u2019re taking a big step towards a healthier you. Quitting smoking can be challenging, but you\u2019re stronger than you think.\n\nLet\u2019s explore some ways to manage those anxious feelings. Have you tried any relaxation techniques like deep breathing or mindfulness?  Sometimes a short walk or some gentle movement can also help.\n\nWould you like me to suggest some helpful videos on coping with cravings or strategies for managing anxiety?",
+          "timestamp": "2025-12-14T23:53:03.419627"
+        }
+      ]
+    },
+    {
+      "chatId": "7b58a817-3248-46c4-bd61-7cf72a6eda19",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm feeling anxious without cigarettes",
+          "timestamp": "2025-12-14T23:53:03.424695"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel anxious when you\u2019re trying to quit smoking \u2013 it\u2019s a really tough process! Don\u2019t beat yourself up about it. It\u2019s a sign you\u2019re recognizing the change you want to make.\n\nLet\u2019s take a moment to breathe. Cravings can be intense, but they\u2019re temporary. Have you tried any coping mechanisms lately, like deep breathing or a short walk? \n\nRemember, you\u2019ve already taken a huge step by reaching out.  We\u2019re here to support you every step of the way.  Would you like to talk more about what\u2019s causing the anxiety, or perhaps explore some helpful resources?",
+          "timestamp": "2025-12-14T23:53:05.365977"
+        },
+        {
+          "role": "user",
+          "content": "i want to smoke",
+          "timestamp": "2025-12-14T23:53:28.001790"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s understandable to feel that way when you\u2019re craving a familiar feeling. It\u2019s a really common experience during this process. \n\nLet\u2019s focus on getting you back on track. Cravings can be tough, but they\u2019re often temporary. Have you tried any relaxation techniques like deep breathing or mindfulness? \n\nIf you\u2019d like to explore some resources or just need someone to listen, I\u2019m here for you. We can talk about what\u2019s triggering the urge, or find some helpful videos to learn more about nicotine addiction and coping strategies.",
+          "timestamp": "2025-12-14T23:53:29.536853"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: work stress is trig",
+          "timestamp": "2025-12-14T23:54:11.000747"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. Work stress can definitely trigger cravings \u2013 it\u2019s a common challenge when trying to quit. It\u2019s brave of you to acknowledge this and seek support.\n\nLet\u2019s try a quick technique: deep breathing can help calm your nervous system. Inhale for 4 seconds, hold for 4 seconds, exhale for 6 seconds. Repeat a few times.\n\nWould you like to explore some resources about how stress impacts nicotine cravings, or perhaps a video on coping strategies? We can also discuss what\u2019s specifically causing the stress and how we can address it.",
+          "timestamp": "2025-12-14T23:54:12.748504"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: work stress is trigg",
+          "timestamp": "2025-12-14T23:54:12.753165"
+        },
+        {
+          "role": "assistant",
+          "content": "That\u2019s a really valid feeling \u2013 work stress is a powerful trigger for cravings. It\u2019s completely normal to feel that way. Don\u2019t beat yourself up about it! Remember, you\u2019re taking a huge step towards a healthier life. Let\u2019s explore some coping strategies together. Would you like to learn about deep breathing or maybe a video on managing stress and cravings?",
+          "timestamp": "2025-12-14T23:54:14.303113"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: work stress is trigger",
+          "timestamp": "2025-12-14T23:54:14.306342"
+        },
+        {
+          "role": "assistant",
+          "content": "That\u2019s a really valid feeling \u2013 work stress is a powerful trigger for cravings. It\u2019s completely normal to feel that way! Don\u2019t beat yourself up about it! Remember, you\u2019re taking a huge step towards a healthier life. Let\u2019s explore some coping strategies together. Would you like to learn about deep breathing or maybe a video on managing stress and cravings?",
+          "timestamp": "2025-12-14T23:54:15.610445"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: work stress is triggering ",
+          "timestamp": "2025-12-14T23:54:15.613489"
+        },
+        {
+          "role": "assistant",
+          "content": "It\u2019s understandable that work stress is triggering you \u2013 that\u2019s a tough situation to navigate. It\u2019s great you\u2019re recognizing this and wanting to take action. Remember, you\u2019re not alone in this, and it\u2019s absolutely possible to overcome this. \n\nLet\u2019s try a quick technique: deep breathing can help calm your nervous system and reduce those cravings. Would you like to hear a short video on how to do that?",
+          "timestamp": "2025-12-14T23:54:17.043771"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: work stress is triggering th",
+          "timestamp": "2025-12-14T23:54:17.046541"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, let\u2019s take a step back. It sounds like work stress is really hitting you hard right now, and that\u2019s completely understandable. It\u2019s brave of you to acknowledge it and want to quit. Remember, every small victory counts! Deep breathing can be a really effective tool to manage those cravings and calm your nervous system. Would you like me to share a quick video on how to practice deep breathing right now?",
+          "timestamp": "2025-12-14T23:54:18.169682"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: work stress is triggering the ",
+          "timestamp": "2025-12-14T23:54:18.175093"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, let\u2019s take a step back. It sounds like work stress is really hitting you hard right now, and that\u2019s completely understandable. It\u2019s brave of you to acknowledge it and want to quit. Remember, every small victory counts! Deep breathing can be a really effective tool to manage those cravings and calm your nervous system. Would you like me to share a quick video on how to practice deep breathing right now?",
+          "timestamp": "2025-12-14T23:54:19.614464"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: work stress is triggering the urge",
+          "timestamp": "2025-12-14T23:54:19.621247"
+        },
+        {
+          "role": "assistant",
+          "content": "That\u2019s a really tough situation, and it\u2019s completely valid that work stress is making it harder to stay focused on your quit goals. It\u2019s fantastic that you\u2019re recognizing this and wanting to take action. Don\u2019t beat yourself up about the cravings \u2013 they\u2019re a sign you\u2019re still fighting the urge. \n\nLet\u2019s try a quick deep breathing exercise. Inhale for four seconds, hold for two, and exhale for six. Repeat a few times. Even a few moments of focused breathing can help shift your mindset. Would you like me to share a video demonstrating this technique?",
+          "timestamp": "2025-12-14T23:54:21.151238"
+        },
+        {
+          "role": "user",
+          "content": "work stress is triggering the urge",
+          "timestamp": "2025-12-14T23:54:21.161620"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel overwhelmed by work stress and that\u2019s definitely contributing to those urges. Don\u2019t let those cravings derail you! It\u2019s a tough battle, but you\u2019ve already taken a huge step by recognizing it. Deep breathing is a fantastic tool \u2013 it can really help calm your nervous system and reduce the intensity of the urge. Would you like me to share a video showing you how to do that?",
+          "timestamp": "2025-12-14T23:54:22.466352"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'd like to watch videos about 5 ways to beat cigarette cravings",
+          "timestamp": "2025-12-14T23:54:39.222833"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, let\u2019s do that! I\u2019m here to help you on your journey. It\u2019s great you\u2019re looking for ways to tackle those cravings.  \n\nDon\u2019t worry about them \u2013 they\u2019re a common part of the process!  \n\nWould you like me to suggest some videos that offer practical strategies for overcoming cravings?  There are some really helpful resources out there!",
+          "timestamp": "2025-12-14T23:54:40.808262"
+        },
+        {
+          "role": "user",
+          "content": "I'd like to watch videos about 5 ways to beat cigarette cravings",
+          "timestamp": "2025-12-14T23:54:42.327681"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, great! Let\u2019s find some helpful videos. It\u2019s completely understandable to feel frustrated with cravings \u2013 they\u2019re a big part of the challenge.  Many videos offer practical strategies to manage them.  Would you like me to suggest a few popular ones right now?",
+          "timestamp": "2025-12-14T23:54:43.872711"
+        }
+      ]
+    },
+    {
+      "chatId": "03adfc44-bc89-434b-94bd-b6edcf90fedf",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-14T23:57:35.609305"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really feeling a strong craving right now. That\u2019s completely normal when you\u2019re trying to quit, and it\u2019s great that you\u2019re recognizing it. \n\nDon\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting the urge. Let\u2019s try to tackle this together. \n\nHave you tried any coping mechanisms before, like taking a deep breath or going for a short walk? Sometimes a little movement can help shift your focus. \n\nWould you like me to suggest some helpful videos on quitting smoking, or perhaps some resources that might offer support?",
+          "timestamp": "2025-12-14T23:57:37.915363"
+        }
+      ]
+    },
+    {
+      "chatId": "8c116991-61b4-4041-b044-68ed13a2591a",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-14T23:57:37.920395"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel a strong craving when you\u2019re trying to quit. It\u2019s a really common experience, and it doesn\u2019t mean you\u2019re failing.  \n\nLet\u2019s take a moment to address this.  It sounds like you\u2019re feeling really strong right now.  \n\nHere are a few things that might help:\n\n*   **Distract yourself:** Try a short walk, listening to music, or doing something you enjoy.\n*   **Deep breathing:** Take a few slow, deep breaths \u2013 in for 4, hold for 4, out for 6.\n*   **Drink water:** Sometimes a glass of water can help curb the craving.\n\nWould you like me to suggest some resources about nicotine addiction or help you explore some calming techniques?",
+          "timestamp": "2025-12-14T23:57:39.282946"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2025-12-15T00:01:12.378584"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It\u2019s tough when a relapse happens, and it\u2019s important to acknowledge it. Don\u2019t beat yourself up about it \u2013 it\u2019s a setback, not a failure. \n\nIt sounds like you\u2019re feeling really frustrated right now. Let\u2019s focus on getting back on track. \n\nWould you like me to suggest some videos that offer strategies for managing cravings and building resilience? Or perhaps we could explore some calming techniques to help you manage those feelings?",
+          "timestamp": "2025-12-15T00:01:13.611826"
+        },
+        {
+          "role": "user",
+          "content": "I had a relapse yesterday",
+          "timestamp": "2025-12-15T00:01:13.621157"
+        },
+        {
+          "role": "assistant",
+          "content": "It\u2019s completely understandable to feel frustrated after a relapse. It\u2019s a common experience, and it\u2019s okay to acknowledge it. Don\u2019t let it derail your efforts. Remember, each attempt is a step forward. Let\u2019s focus on getting back to your goals. Would you like me to suggest some videos about managing cravings and building resilience?",
+          "timestamp": "2025-12-15T00:01:14.691362"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: What should I do when I feel like smoking?",
+          "timestamp": "2025-12-15T00:02:08.861255"
+        },
+        {
+          "role": "assistant",
+          "content": "It\u2019s completely normal to feel anxious and frustrated when you\u2019re struggling with cravings. It\u2019s a sign you\u2019re committed to quitting! Remember, every time you resist, you\u2019re one step closer to success. \n\nLet\u2019s try some techniques to help you cope. A simple thing to try is to distract yourself with a different activity \u2013 a walk, a hobby, or even just a few minutes of deep breathing.  \n\nWould you like me to share some resources on coping with cravings, or perhaps suggest a short, guided meditation to help you relax?",
+          "timestamp": "2025-12-15T00:02:10.538747"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: Can you suggest some coping techniques?",
+          "timestamp": "2025-12-15T00:02:40.217968"
+        },
+        {
+          "role": "assistant",
+          "content": "It\u2019s completely normal to feel anxious and frustrated when you\u2019re struggling with cravings. It\u2019s a sign you\u2019re committed to quitting! Remember, every time you resist, you\u2019re one step closer to success. \n\nLet\u2019s try some techniques to help you cope. A simple thing to try is to distract yourself with a different activity \u2013 a walk, a hobby, or even just a few minutes of deep breathing. \n\nWould you like me to share some resources on coping with cravings, or perhaps suggest a short, guided meditation to help you relax?",
+          "timestamp": "2025-12-15T00:02:41.515320"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: How long do nicotine cravings usually last?",
+          "timestamp": "2025-12-15T00:03:24.451546"
+        },
+        {
+          "role": "assistant",
+          "content": "That\u2019s a really good question! Cravings can definitely feel intense, and it\u2019s understandable to want to know how long they last. They typically last anywhere from 30 minutes to a couple of hours, but it really varies from person to person.  Remember, it\u2019s a process, and setbacks are normal. Don\u2019t get discouraged \u2013 just keep practicing the techniques we\u2019ve discussed! You\u2019ve already taken a significant step by asking about this.",
+          "timestamp": "2025-12-15T00:03:25.597741"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'm feeling anxious without cigarettes",
+          "timestamp": "2025-12-15T00:03:31.647163"
+        },
+        {
+          "role": "assistant",
+          "content": "It\u2019s completely understandable to feel anxious when you\u2019re trying to quit. Many people experience this, and it\u2019s a common sign that you\u2019re ready for a change. Don\u2019t beat yourself up about it \u2013 it\u2019s a signal that you\u2019re pushing yourself.\n\nLet\u2019s try a quick distraction. Would you like me to suggest a few simple activities you could do to take your mind off things? Perhaps a short walk, listening to music, or practicing deep breathing? We can also explore some resources about managing anxiety and cravings. Remember, you\u2019re making progress, and it\u2019s okay to have moments of feeling anxious \u2013 we\u2019ll work through it together.",
+          "timestamp": "2025-12-15T00:03:33.584395"
+        }
+      ]
+    },
+    {
+      "chatId": "392b3bbf-0ea6-48b2-9782-4af96bb4c557",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-15T00:10:01.717113"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really feeling a strong craving right now. That\u2019s completely normal when you\u2019re trying to quit, and it\u2019s great that you\u2019re recognizing it. \n\nDon\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting for yourself. Let\u2019s try to tackle this. \n\nWould you like me to suggest some techniques to help you manage those cravings? We could explore things like distraction, deep breathing, or even a short walk. \n\nIf you\u2019d like to watch a video about quitting, I can point you to some helpful resources.  Just let me know!",
+          "timestamp": "2025-12-15T00:10:03.627263"
+        }
+      ]
+    },
+    {
+      "chatId": "19f90191-4c73-4264-98a0-4a8b43edf66b",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-15T00:10:03.631788"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, that\u2019s completely understandable. It\u2019s really brave of you to acknowledge that craving. It\u2019s a common experience when you\u2019re trying to quit, and it\u2019s okay to feel that way. \n\nLet\u2019s take a moment to help you get through this.  Cravings can be intense, but they don\u2019t have to control you. \n\nHave you tried any coping mechanisms lately? Sometimes a short walk, deep breathing, or a few minutes of mindful activity can help. \n\nWould you like me to suggest some resources about nicotine addiction or strategies for managing cravings?  Or perhaps you\u2019d like to explore some helpful videos?",
+          "timestamp": "2025-12-15T00:10:04.869439"
+        }
+      ]
+    },
+    {
+      "chatId": "74d513d7-d980-4ef0-b9fb-125a91f668fe",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-15T00:13:26.431909"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really struggling right now with a strong craving. That\u2019s completely normal \u2013 cravings are a common part of quitting. Don\u2019t beat yourself up about it. It\u2019s a sign you\u2019re still fighting the urge to smoke.\n\nLet\u2019s try to get you back on track.  Sometimes, a quick distraction can help. Have you tried deep breathing exercises or taking a short walk?  \n\nWould you like me to share some resources on coping with cravings, or perhaps suggest a few videos that might offer helpful strategies?  Just let me know what you\u2019d like to do next.",
+          "timestamp": "2025-12-15T00:13:28.732231"
+        }
+      ]
+    },
+    {
+      "chatId": "8b34bccd-e05a-4db8-852e-b88a8e8123ee",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-15T00:13:28.737339"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel a strong craving when you\u2019re trying to quit. Don\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting the urge to smoke. \n\nIt\u2019s great that you\u2019re recognizing this now. Let\u2019s try to tackle it. \n\nWould you like to explore some quick techniques to manage those cravings? We could try deep breathing, taking a walk, or focusing on something else entirely. \n\nIf you\u2019re feeling really overwhelmed, remember you\u2019ve made it this far \u2013 you\u2019re strong!  \n\nDo you want to know more about nicotine addiction or how to find helpful resources?",
+          "timestamp": "2025-12-15T00:13:30.574529"
+        }
+      ]
+    },
+    {
+      "chatId": "6f5e0dda-2a84-455d-947d-207d0807e1dc",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-15T00:30:56.576933"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really feeling a strong craving right now. That\u2019s completely normal when you\u2019re trying to quit, and it\u2019s a sign you\u2019re pushing yourself. Don\u2019t beat yourself up about it \u2013 it\u2019s a powerful urge.\n\nLet\u2019s try to tackle this. Sometimes cravings are intense, and they can be really difficult to manage. \n\nHave you tried any specific techniques to help you cope with these urges?  Perhaps a short walk, deep breathing, or a few minutes of distraction could help. \n\nWould you like me to suggest some helpful resources, or perhaps a video that might offer some strategies?",
+          "timestamp": "2025-12-15T00:30:58.326496"
+        }
+      ]
+    },
+    {
+      "chatId": "b9c10a43-90dd-4607-b025-9f3d7ee3210e",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-15T00:30:58.343170"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel a strong craving when you\u2019re trying to quit. It\u2019s a really common experience, and it doesn\u2019t mean you\u2019re failing.  \n\nLet\u2019s take a moment to address this.  It sounds like you\u2019re feeling really strong right now.  \n\nHere are a few things that might help:\n\n*   **Distract yourself:** Try doing something you enjoy \u2013 listen to music, call a friend, or engage in a hobby.\n*   **Deep breathing:** Take a few slow, deep breaths to calm your nervous system.\n*   **Drink water:** Sometimes a glass of water can help curb the craving.\n\nWould you like to talk more about what\u2019s triggering this craving, or perhaps explore some resources like videos on coping with cravings?",
+          "timestamp": "2025-12-15T00:31:00.269508"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2025-12-15T00:31:09.513747"
+        },
+        {
+          "role": "assistant",
+          "content": "Oh, wow, that\u2019s tough. It\u2019s completely understandable to feel discouraged after a relapse. It\u2019s a setback, but it doesn\u2019t define your progress. Remember, quitting is a process, and setbacks are part of it. \n\nDon\u2019t beat yourself up about it. Let\u2019s focus on getting back on track. \n\nWould you like to explore some coping techniques to help manage those cravings? We have some helpful videos on strategies for dealing with intense urges \u2013 they might offer some relief.",
+          "timestamp": "2025-12-15T00:31:10.876936"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: What should I do when I feel like smoking?",
+          "timestamp": "2025-12-15T00:31:16.481031"
+        },
+        {
+          "role": "assistant",
+          "content": "It\u2019s okay to feel frustrated when you\u2019re struggling. Many people experience cravings and relapses \u2013 it\u2019s a normal part of the process! Don\u2019t let one setback discourage you.\n\nWhen you feel that urge, try a distraction like listening to music, going for a short walk, or practicing deep breathing. Sometimes, a glass of water can help.\n\nIf you\u2019d like to learn more about nicotine addiction and how to manage cravings, we have a collection of helpful videos right here in the app. Would you like me to share some links?",
+          "timestamp": "2025-12-15T00:31:17.778667"
+        }
+      ]
+    },
+    {
+      "chatId": "a63a3c8e-58ea-4122-9d15-84b37dea67f4",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-15T01:00:03.233908"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really feeling a strong craving right now. That\u2019s completely normal when you\u2019re trying to quit, and it\u2019s great that you\u2019re recognizing it. \n\nDon\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting the urge. Let\u2019s try to tackle this together. \n\nHave you tried any coping mechanisms lately? Sometimes a short walk, deep breathing, or a few minutes of mindful activity can help. \n\nWould you like me to suggest some videos on strategies for dealing with cravings? Or perhaps you\u2019d like to learn more about nicotine addiction and how it affects your body?",
+          "timestamp": "2025-12-15T01:00:04.758661"
+        }
+      ]
+    },
+    {
+      "chatId": "5bde306c-253d-43a8-9f7b-472409491df2",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-15T01:35:37.181127"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really struggling right now with a strong craving. That\u2019s completely normal \u2013 cravings are a common part of quitting. Don\u2019t beat yourself up about it. It\u2019s a sign you\u2019re still fighting the urge to smoke.\n\nLet\u2019s try to get you back on track.  Sometimes, a quick distraction can help. Have you tried deep breathing exercises or taking a short walk?  \n\nWould you like me to share some resources on coping with cravings, or perhaps suggest a few videos that might offer helpful strategies?  Just let me know what you\u2019d like to do next.",
+          "timestamp": "2025-12-15T01:35:39.016543"
+        }
+      ]
+    },
+    {
+      "chatId": "9c9bc420-decb-4de5-9c3c-9600dbe0c9a1",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-15T01:35:39.025512"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel a strong craving when you\u2019re trying to quit. It\u2019s a really common experience, and it doesn\u2019t mean you\u2019re failing. \n\nLet\u2019s take a moment to address this.  It sounds like you\u2019re feeling really strong right now.  \n\nHere are a few things that might help:\n\n*   **Distract yourself:** Try a short walk, listening to music, or doing something you enjoy.\n*   **Deep breathing:** Take a few slow, deep breaths \u2013 this can help calm your nervous system.\n*   **Drink water:** Sometimes a glass of water can help curb the craving.\n\nWould you like to talk more about what\u2019s triggering this craving, or perhaps explore some resources like videos on coping with cravings?",
+          "timestamp": "2025-12-15T01:35:40.652993"
+        }
+      ]
+    },
+    {
+      "chatId": "d1ae97c2-d5e8-4bb9-b8ca-eef7f9e85702",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-15T01:41:43.725685"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really struggling right now with a strong craving. That\u2019s completely normal \u2013 cravings are a common part of quitting. Don\u2019t beat yourself up about it. It\u2019s a sign you\u2019re still fighting the urge to smoke.\n\nLet\u2019s try to get you back on track.  Sometimes, a quick distraction can help. Have you tried deep breathing exercises or taking a short walk?  \n\nWould you like me to share some resources on coping with cravings, or perhaps suggest a few videos that might offer helpful strategies?  Just let me know what you\u2019d like to do next.",
+          "timestamp": "2025-12-15T01:41:45.510121"
+        }
+      ]
+    },
+    {
+      "chatId": "7f9a3f05-9a75-4b89-9dee-09f9c8d1f135",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-15T01:41:46.832522"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel a strong craving when you\u2019re trying to quit. Don\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting the urge!\n\nIt sounds like you\u2019re experiencing a difficult moment. Let\u2019s take a moment to help you get back on track. \n\nWould you like to try a quick technique to manage the craving? Sometimes a 10-minute break to do something distracting \u2013 like a walk, a piece of fruit, or a few deep breaths \u2013 can help. \n\nIf you\u2019d like to learn more about nicotine addiction or how to manage cravings, I can point you to some helpful resources.  Would you like to hear about that?",
+          "timestamp": "2025-12-15T01:41:48.674661"
+        }
+      ]
+    },
+    {
+      "chatId": "bc7a1dfb-3082-4a69-8b00-337c0e8d353f",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-15T01:59:58.018231"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really feeling a strong craving right now. That\u2019s completely normal when you\u2019re trying to quit, and it\u2019s great that you\u2019re recognizing it. \n\nDon\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting for yourself. Let\u2019s try to get you back on track.\n\nWould you like me to suggest some techniques to help you manage those cravings? We could explore things like distraction, deep breathing, or even a short walk. \n\nIf you\u2019d like to watch a video about quitting, I can point you to some helpful resources.",
+          "timestamp": "2025-12-15T01:59:59.892520"
+        }
+      ]
+    },
+    {
+      "chatId": "ebca36a7-0fc1-4b2e-8169-20e311d0f7aa",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-15T01:59:59.905027"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, that\u2019s completely understandable. It\u2019s really brave of you to acknowledge that craving. It\u2019s a common experience when you\u2019re trying to quit, and it\u2019s okay to feel that way. \n\nLet\u2019s take a moment to help you get through this.  Cravings can be intense, but they don\u2019t mean you\u2019ve failed.  \n\nWould you like to try a quick technique to manage it?  Sometimes a 10-minute distraction \u2013 like a walk, a cup of tea, or a few deep breaths \u2013 can help.  \n\nIf you\u2019d like to learn more about nicotine addiction or how Cleanslate can support you, I\u2019m here to help.  Would you like to explore some resources?",
+          "timestamp": "2025-12-15T02:00:01.461854"
+        }
+      ]
+    },
+    {
+      "chatId": "c15052aa-c662-4b37-85f8-a924b53e19a0",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2025-12-15T11:57:16.521527"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand. It sounds like you\u2019re really feeling a strong craving right now. That\u2019s completely normal when you\u2019re trying to quit, and it\u2019s great that you\u2019re recognizing it. \n\nDon\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting for yourself. Let\u2019s try to tackle this. \n\nWould you like me to suggest some techniques to help you manage those cravings? We could explore things like distraction, deep breathing, or even a short walk. \n\nIf you\u2019d like to watch a video about quitting, I can point you to some helpful resources.  Just let me know!",
+          "timestamp": "2025-12-15T11:57:18.819082"
+        }
+      ]
+    },
+    {
+      "chatId": "9672ec46-5784-433f-a5a9-99279651c9af",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2025-12-15T11:57:18.827714"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I hear you. It\u2019s completely normal to feel a strong craving when you\u2019re trying to quit. Don\u2019t beat yourself up about it \u2013 it\u2019s a sign you\u2019re still fighting the urge to smoke. \n\nIt sounds like you\u2019re experiencing a difficult moment. Let\u2019s try to get you back on track. \n\nWould you like to explore some techniques to manage those cravings? Some things that can help include:\n\n*   **Deep breathing:** Take slow, deep breaths to calm your nervous system.\n*   **Distraction:** Engage in an activity you enjoy \u2013 a walk, a hobby, or calling a friend.\n*   **Drink water:** Sometimes thirst can mimic cravings.\n\nIf you\u2019d like to learn more about nicotine addiction or find helpful resources, I\u2019m here to help.",
+          "timestamp": "2025-12-15T11:57:20.454637"
+        }
+      ]
+    },
+    {
+      "chatId": "8d68dd42-936c-4d90-8e01-a1baab5b3027",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2026-05-08T14:54:37.592398"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T14:54:37.773703"
+        }
+      ]
+    },
+    {
+      "chatId": "86e9eefa-78a9-4d4f-bb08-3b625b25e7c8",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-08T14:54:39.869365"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T14:54:39.998272"
+        }
+      ]
+    },
+    {
+      "chatId": "1d707b45-9c24-4b72-b662-b6f04285d34e",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-08T14:54:40.904730"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T14:54:41.038328"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I'm feeling anxious without cigarettes",
+          "timestamp": "2026-05-08T14:54:52.708068"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T14:54:52.856202"
+        },
+        {
+          "role": "user",
+          "content": "I'm feeling anxious without cigarettes",
+          "timestamp": "2026-05-08T14:54:53.465999"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T14:54:53.609721"
+        }
+      ]
+    },
+    {
+      "chatId": "5fb3a71a-2b7a-4f12-9071-e095244196d9",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm feeling anxious without cigarettes",
+          "timestamp": "2026-05-08T14:57:29.699622"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T14:57:29.852454"
+        }
+      ]
+    },
+    {
+      "chatId": "e5397c64-edb3-4393-864e-9ae5c752a69e",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm feeling anxious without cigarettes",
+          "timestamp": "2026-05-08T14:57:30.306916"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T14:57:30.454085"
+        },
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-08T15:20:25.019903"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T15:20:55.442243"
+        }
+      ]
+    },
+    {
+      "chatId": "b73eca1f-6b0e-4ffd-a4bf-3818d2c2474e",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving right now",
+          "timestamp": "2026-05-08T14:58:23.508747"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T14:58:23.717823"
+        }
+      ]
+    },
+    {
+      "chatId": "8130e227-9da6-4379-80e2-16181c89fe6c",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving right now, help me",
+          "timestamp": "2026-05-08T15:00:02.676358"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T15:00:03.210107"
+        }
+      ]
+    },
+    {
+      "chatId": "852dbffc-2f17-4d18-9f46-072876d045db",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving right now, help me",
+          "timestamp": "2026-05-08T15:00:50.722771"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T15:00:51.259874"
+        }
+      ]
+    },
+    {
+      "chatId": "4894fa76-fc71-4d9e-8540-701f47244285",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving",
+          "timestamp": "2026-05-08T15:01:33.658313"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T15:01:33.812461"
+        }
+      ]
+    },
+    {
+      "chatId": "cf837bc6-ce53-414f-8ec7-6de40a0d547a",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving right now, help me",
+          "timestamp": "2026-05-08T15:07:21.143250"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T15:07:52.151551"
+        }
+      ]
+    },
+    {
+      "chatId": "9af92495-cb99-4809-9c99-4678f0ab9ca6",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving right now, help me",
+          "timestamp": "2026-05-08T15:08:57.948258"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T15:09:28.922943"
+        }
+      ]
+    },
+    {
+      "chatId": "8f4449b3-fe3b-4a87-b6c6-dcbe78e01e29",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving right now, help me",
+          "timestamp": "2026-05-08T15:12:22.039937"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T15:12:52.578146"
+        }
+      ]
+    },
+    {
+      "chatId": "e8898588-46d3-4234-935d-4ce1c9c2055b",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving right now, help me",
+          "timestamp": "2026-05-08T15:16:56.283478"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-08T15:17:27.232686"
+        }
+      ]
+    },
+    {
+      "chatId": "0eaa8fdf-4697-4a1d-baa4-edcdd480c4ee",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-14T11:45:53.630056"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-14T11:46:24.218804"
+        }
+      ]
+    },
+    {
+      "chatId": "1cfa2109-d4c3-49be-ac1b-17f939261191",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-14T11:45:54.030536"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-14T11:46:24.456317"
+        }
+      ]
+    },
+    {
+      "chatId": "a8a878ba-978a-45f9-bd81-515939f5bd59",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "help me with cravings",
+          "timestamp": "2026-05-14T11:47:57.282959"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-14T11:48:27.822990"
+        }
+      ]
+    },
+    {
+      "chatId": "a90837d8-05df-4067-aecd-1501b484ef1a",
+      "userId": "test-user",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving, help me",
+          "timestamp": "2026-05-14T11:53:53.329649"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-14T11:54:24.208300"
+        }
+      ]
+    },
+    {
+      "chatId": "c089b377-d451-49f5-99e1-bbe40ef43b72",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-14T12:30:58.997705"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-14T12:31:29.509926"
+        }
+      ]
+    },
+    {
+      "chatId": "b7ecaded-63e5-4761-8632-7f18317c33bb",
+      "userId": "",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-14T12:31:00.123181"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-14T12:31:30.579572"
+        }
+      ]
+    },
+    {
+      "chatId": "c3f9e39f-aa5d-4c82-976c-51d2ae4263ba",
+      "userId": "d18e4cf6-b122-4c65-b862-0419f3ad1244",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-23T12:41:29.400418"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-23T12:42:00.236507"
+        }
+      ]
+    },
+    {
+      "chatId": "0c813b82-3107-46fc-b087-8f57062467da",
+      "userId": "d18e4cf6-b122-4c65-b862-0419f3ad1244",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-23T12:41:30.282367"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-23T12:42:00.764470"
+        }
+      ]
+    },
+    {
+      "chatId": "62d778d6-dc91-4809-9dc6-34865ad8b662",
+      "userId": "e3c67369-b6e3-41e1-88ac-60b23c22809a",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2026-05-23T19:53:46.645972"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-23T19:54:18.490382"
+        }
+      ]
+    },
+    {
+      "chatId": "e242a336-54d8-4ff9-ab0a-d20fa96f577b",
+      "userId": "e3c67369-b6e3-41e1-88ac-60b23c22809a",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I had a relapse yesterday",
+          "timestamp": "2026-05-23T19:53:47.587795"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-23T19:54:19.005262"
+        }
+      ]
+    },
+    {
+      "chatId": "a2668afc-05ce-4686-bf08-1de46427c25f",
+      "userId": "b62ed87c-0203-497b-9ca6-17ed403a8681",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm feeling anxious without cigarettes",
+          "timestamp": "2026-05-23T20:10:22.592544"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-23T20:10:53.240675"
+        }
+      ]
+    },
+    {
+      "chatId": "5ae8a4dd-20ec-4226-923e-42a599950935",
+      "userId": "b62ed87c-0203-497b-9ca6-17ed403a8681",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm feeling anxious without cigarettes",
+          "timestamp": "2026-05-23T20:10:23.357825"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-23T20:10:53.838329"
+        }
+      ]
+    },
+    {
+      "chatId": "7c485b1a-0b2d-4d2f-9fd9-8776df4befb9",
+      "userId": "454aa0a9-7234-4d86-ab21-3a1f61a41fbf",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a craving right now",
+          "timestamp": "2026-05-23T23:05:33.351348"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm having trouble connecting right now. If you're experiencing a craving, try taking deep breaths for 2 minutes, drinking a glass of water, or going for a short walk to distract yourself. I'll be here when you get back.",
+          "timestamp": "2026-05-23T23:06:05.151092"
+        }
+      ]
+    },
+    {
+      "chatId": "3db9f758-e96f-4534-82aa-83d9ae8be914",
+      "userId": "454aa0a9-7234-4d86-ab21-3a1f61a41fbf",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving right now, help me",
+          "timestamp": "2026-05-23T23:07:28.028443"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're going through a tough moment, and that's okay. Cravings are powerful, but they are also temporary.\n\nTry using the \"4 D's\" technique:\n*   **Delay:** Wait a few minutes. Cravings usually pass in 5-10 minutes.\n*   **Distract:** Do something else immediately \u2013 call a friend, play a game, go for a walk.\n*   **Deep breathe:** Take 10 slow, deep breaths.\n*   **Drink water:** Sip some water slowly.\n\nMany users find our short videos helpful for managing strong cravings. You might find them useful right now. You've got this!",
+          "timestamp": "2026-05-23T23:07:31.042990"
+        }
+      ]
+    },
+    {
+      "chatId": "bd28b0e7-3b46-45c3-a2e7-6f1d190f13d7",
+      "userId": "c916410a-91c5-41e2-a235-b68eabbca1a4",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-23T23:08:19.229383"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're going through a tough moment with that strong craving. Many people find videos on coping strategies very helpful during these times.\n\nWould you like to explore some videos specifically designed to help manage strong cravings? You could also try a quick distraction like drinking a glass of water, taking a few deep breaths, or stepping away from your current activity for a minute. You've got this!",
+          "timestamp": "2026-05-23T23:08:21.178687"
+        }
+      ]
+    },
+    {
+      "chatId": "55d07c4b-ac31-4783-800c-4fc812e0f827",
+      "userId": "c916410a-91c5-41e2-a235-b68eabbca1a4",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-23T23:08:21.196144"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're going through a tough moment with that strong craving. Remember, it will pass.\n\nTry the 4 D's:\n1.  **Delay:** Wait it out for a few minutes.\n2.  **Deep breaths:** Take slow, deep breaths to relax.\n3.  **Drink water:** Sip some water.\n4.  **Do something else:** Distract yourself with an activity, even for a few minutes.\n\nYou're doing great by reaching out! You might also find some helpful videos in the app's resources section for managing these intense moments. You've got this.",
+          "timestamp": "2026-05-23T23:08:23.610523"
+        }
+      ]
+    },
+    {
+      "chatId": "27e11a1b-430c-4cad-bb9e-e566d9089daa",
+      "userId": "c916410a-91c5-41e2-a235-b68eabbca1a4",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: How long do nicotine cravings usually last?",
+          "timestamp": "2026-05-23T23:43:22.062587"
+        },
+        {
+          "role": "assistant",
+          "content": "Nicotine cravings are usually intense but short-lived, often lasting only 5 to 10 minutes. While the frequency might decrease over time, the initial days and weeks are when they're most common.\n\nSince you're asking about videos, you might find our video resources on managing acute cravings very helpful. They offer practical techniques to help you get through those brief urges. Stay strong, you've got this!",
+          "timestamp": "2026-05-23T23:43:25.291409"
+        }
+      ]
+    },
+    {
+      "chatId": "55520867-50cf-4814-a6d0-411fe8674551",
+      "userId": "c916410a-91c5-41e2-a235-b68eabbca1a4",
+      "messages": [
+        {
+          "role": "user",
+          "content": "How long do nicotine cravings usually last?",
+          "timestamp": "2026-05-23T23:43:25.308824"
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great question, and it's helpful to know what to expect! Nicotine cravings are usually quite short, often lasting only 5-10 minutes, even when they feel intense. They might feel powerful in the moment, but they *will* pass.\n\nTo help them pass even quicker, try using the \"4 D's\":\n*   **Delay:** Wait it out for a few minutes.\n*   **Deep breathe:** Take slow, deep breaths.\n*   **Drink water:** Sip some water slowly.\n*   **Do something else:** Distract yourself with an activity.\n\nYou might also find some of our videos helpful for getting through these moments. You're doing great by asking questions and staying engaged with your quit plan!",
+          "timestamp": "2026-05-23T23:43:28.467236"
+        }
+      ]
+    },
+    {
+      "chatId": "21858585-3b54-47d4-ba9f-20fb8e750ed1",
+      "userId": "86097c12-cf42-4032-921b-8b56a9108a96",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-24T11:39:27.762320"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely normal to have strong cravings as you quit. Take a deep breath. This feeling will pass.\n\nMany users find distraction techniques helpful. Try the \"4 D's\":\n*   **Delay** for a few minutes.\n*   **Distract** yourself with an activity.\n*   **Drink** a glass of water.\n*   **Deep breathe**.\n\nSince you're looking for videos, you might find our guided meditation or craving-busting technique videos helpful right now. Would you like me to show you some options?",
+          "timestamp": "2026-05-24T11:39:30.344187"
+        }
+      ]
+    },
+    {
+      "chatId": "99451b17-bc7b-402c-b255-a8cac1ea05e5",
+      "userId": "86097c12-cf42-4032-921b-8b56a9108a96",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T11:39:30.358831"
+        },
+        {
+          "role": "assistant",
+          "content": "That's tough, but you're strong for reaching out! A craving usually lasts 5-10 minutes. Try one of these:\n\n*   **Delay:** Wait 5 minutes.\n*   **Deep breathe:** Take 10 slow, deep breaths.\n*   **Drink water:** Sip a glass of water slowly.\n*   **Do something else:** Distract yourself with a quick activity.\n\nYou might also find our short videos helpful for moments like these. Remember why you started this journey \u2013 you've got this!",
+          "timestamp": "2026-05-24T11:39:32.572113"
+        }
+      ]
+    },
+    {
+      "chatId": "b83a25f4-b96b-4a01-bb5f-b64abf3d8785",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2026-05-24T12:48:50.898546"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely understandable to feel disappointed after a relapse, but please know that it's a very common part of the quitting process and doesn't erase all the progress you've made. The most important thing is how you respond to it now.\n\nLet's get right back on track! Since you mentioned \"search_videos,\" watching some helpful content could be a great way to refocus and regain momentum. Many users find videos on coping with relapses, managing cravings, and staying motivated to be really helpful.\n\nRemember, you're stronger than this slip. What's one small step you can take today to get back to your smoke-free goal? I'm here to support you.",
+          "timestamp": "2026-05-24T12:48:55.067896"
+        }
+      ]
+    },
+    {
+      "chatId": "5f10c23e-f5fa-41bd-a755-86312fb7bfdc",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I had a relapse yesterday",
+          "timestamp": "2026-05-24T12:48:55.076728"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm really sorry to hear that you had a relapse yesterday. Please know that this doesn't mean you've failed or that all your hard work is gone. A relapse is a common part of the quitting journey for many people, and what matters most is how you move forward from here.\n\nTake a moment to acknowledge what happened, but don't dwell on it. Let's get you back on track with your Cleanslate plan. Think about what triggered the relapse yesterday \u2013 understanding this can help you prepare better for similar situations in the future.\n\nYou've shown incredible strength by starting this journey, and you can absolutely keep going. We're here to support you every step of the way. What's your next step today?",
+          "timestamp": "2026-05-24T12:48:57.948730"
+        }
+      ]
+    },
+    {
+      "chatId": "2d0bf17e-74ce-48e8-8538-964afd4c2ea7",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-24T14:58:53.902405"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're going through a tough moment with a strong craving. Videos can be a great way to help manage these feelings.\n\nRemember the 4 D's:\n*   **Delay** for a few minutes, cravings usually pass.\n*   **Deep breath** in and out slowly.\n*   **Drink** a glass of water.\n*   **Do something** to distract yourself.\n\nFocus on the video library to find something that helps you through this. You've got this!",
+          "timestamp": "2026-05-24T14:58:57.000042"
+        }
+      ]
+    },
+    {
+      "chatId": "663a9405-689f-4afc-a39d-9df0a0028034",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T14:58:57.008572"
+        },
+        {
+          "role": "assistant",
+          "content": "That's tough, cravings can be really challenging. Remember, they usually only last a few minutes.\n\nTry the 4 D's:\n1.  **Delay** for a few minutes.\n2.  **Distract** yourself with something engaging.\n3.  **Drink** a glass of water.\n4.  Take a few **Deep** breaths.\n\nYou might also find our videos helpful right now \u2013 they're specifically designed to help you through strong cravings. You're doing great by reaching out! Keep going, you've got this.",
+          "timestamp": "2026-05-24T14:58:59.520589"
+        }
+      ]
+    },
+    {
+      "chatId": "8d376537-dffd-4929-9d77-d39b72c15f8f",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm feeling anxious without cigarettes",
+          "timestamp": "2026-05-24T15:00:58.476051"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely normal to feel anxious as your body adjusts to being nicotine-free. Many people find videos very helpful for managing these feelings.\n\nI can help you find videos on relaxation techniques, mindfulness exercises, or strategies for coping with anxiety and cravings. Would you like me to look for something specific?\n\nIn the meantime, try a simple deep breathing exercise: inhale slowly for four counts, hold for four, and exhale slowly for six. Repeat a few times. This can often help calm your nervous system.",
+          "timestamp": "2026-05-24T15:01:01.308951"
+        }
+      ]
+    },
+    {
+      "chatId": "12a9bc38-c9a3-4e62-81bb-6403fb9ef56b",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm feeling anxious without cigarettes",
+          "timestamp": "2026-05-24T15:01:01.324065"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely normal to feel anxious when quitting, as it's a common withdrawal symptom. You're doing great by identifying this feeling.\n\nWhen anxiety hits, try taking a few slow, deep breaths \u2013 inhale deeply through your nose, hold for a few seconds, then exhale slowly through your mouth. You could also try a quick distraction, like stepping away for a moment, drinking a glass of water, or engaging in a brief activity.\n\nYou might also find the videos in the app helpful for managing these intense moments. Keep up the excellent work; every anxious moment you push through is a step towards a smoke-free life.",
+          "timestamp": "2026-05-24T15:01:04.751104"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: I had a relapse yesterday",
+          "timestamp": "2026-05-24T15:01:14.025296"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely okay. A relapse is a common part of the journey to quitting, and it doesn't erase all the progress you've made. What matters most is getting back on track right now.\n\nRemember all the hard work you've put in and why you started this journey. Don't let one slip-up define your whole effort.\n\nSince you're looking for videos and just experienced a relapse, you might find the \"Getting Back on Track After a Slip\" or \"Managing Cravings\" videos particularly helpful. They offer practical strategies to reinforce your resolve.\n\nYou've got this. Let's refocus and continue your path to being smoke-free.",
+          "timestamp": "2026-05-24T15:01:16.878404"
+        },
+        {
+          "role": "user",
+          "content": "I had a relapse yesterday",
+          "timestamp": "2026-05-24T15:01:16.886556"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely okay. A relapse is a common part of the journey to quitting, and it doesn't erase all the progress you've made. What matters most is getting back on track right now.\n\nRemember all the hard work you've put in and why you started this journey. Don't let one slip-up define your whole effort. Every day is a new chance to recommit.\n\nYou've got this. Let's refocus and continue your path to being smoke-free.",
+          "timestamp": "2026-05-24T15:01:20.090308"
+        }
+      ]
+    },
+    {
+      "chatId": "1abfd262-86c3-420c-9dba-5e1d5cc60c6c",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-24T15:05:57.907521"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're experiencing a tough craving right now. That's a strong moment, but you've got this! Many users find videos helpful during cravings for distraction or coping techniques.\n\nI can help you find some quick videos designed to help you through this. Would you like me to show you some options now?",
+          "timestamp": "2026-05-24T15:06:00.873859"
+        }
+      ]
+    },
+    {
+      "chatId": "a3ec36c4-7254-44aa-b8a3-7754908eabe9",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T15:06:00.883383"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely normal to experience strong cravings, especially when you're working so hard to quit. You're doing great by reaching out!\n\nHere are a few quick things you can try right now:\n1.  **Delay:** Tell yourself you'll wait just 5 or 10 minutes. Often, cravings pass in that time.\n2.  **Distract:** Do something else immediately. Get up, walk around, drink a glass of water, or call a friend.\n3.  **Deep breaths:** Take a few slow, deep breaths, inhaling through your nose and exhaling slowly through your mouth.\n\nYou might also find some of our videos helpful for getting through these tough moments. Stay strong \u2013 you can get through this!",
+          "timestamp": "2026-05-24T15:06:02.899003"
+        }
+      ]
+    },
+    {
+      "chatId": "f3514608-266c-4eca-b731-2f0e7dafe428",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "i want to smoke",
+          "timestamp": "2026-05-24T15:11:22.448073"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're really battling a strong urge right now, and that's completely understandable. Quitting is tough, and it's okay to feel this way, especially when cravings hit.\n\nRemember, every single moment is a new chance to get back on track. This isn't a failure, just a moment to learn from.\n\nWhen that urge gets strong, try the \"5-minute delay rule.\" Tell yourself you'll wait just 5 minutes, and during that time, quickly drink a glass of ice-cold water. That physical sensation can often interrupt the craving. You've got this!",
+          "timestamp": "2026-05-24T15:11:27.501215"
+        },
+        {
+          "role": "user",
+          "content": "search_videos: help me with this crav",
+          "timestamp": "2026-05-24T15:11:52.033790"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're really grappling with those cravings right now. It's completely understandable, and it shows you're fighting hard. While today has been tough with 8 cigarettes, remember the 1 day you successfully went without \u2013 that resilience is still in you!\n\nInstead of looking for a video, let's try a quick mental exercise: 'Mindful Craving Observation.' When a craving hits, pause for a moment. Instead of reacting, simply notice it. Where do you feel it in your body? What's its intensity? Don't judge it, just observe it like a wave. Then, take a few slow, deep breaths, focusing on your exhale. Often, just observing it without acting gives you more control. You're strong, and you can get through this moment.",
+          "timestamp": "2026-05-24T15:12:00.869803"
+        },
+        {
+          "role": "user",
+          "content": "help me with this craving",
+          "timestamp": "2026-05-24T15:12:00.900763"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like that craving is still persistent, and you're doing a great job reaching out for support. You've been fighting hard today, and it shows immense strength to keep pushing through these moments.\n\nLet's try a quick physical reset. When the craving hits, get up and splash some cold water on your face. Or, if that's not possible, firmly squeeze a stress ball or clench your fists for 10 seconds and then release. This strong physical sensation can often interrupt the craving's intensity and shift your focus. You're showing incredible determination, keep going!",
+          "timestamp": "2026-05-24T15:12:08.407331"
+        }
+      ]
+    },
+    {
+      "chatId": "747f36d7-a119-4ea9-a429-f4d535b6f447",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-24T15:44:07.172813"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're really grappling with a strong craving right now, and that's incredibly tough. I'm glad we found some video resources that can help.\n\nIn this moment, let's try a few things together. Remember the 4 Ds: **Delay** for a few minutes, take some **Deep breaths** \u2013 really focus on a slow inhale and exhale, **Drink water**, and try to **Distract** yourself with something engaging. Since stress and cravings are high, those deep breaths are particularly important for de-escalating the urge. You've got this.",
+          "timestamp": "2026-05-24T15:44:12.769918"
+        }
+      ]
+    },
+    {
+      "chatId": "8aeefb08-8498-473a-be34-9ace41da3af1",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T15:44:12.784340"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're going through a tough moment right now with a strong craving, and I see you've already been looking into some helpful resources for craving relief. That's a great step!\n\nLet's try some deep breathing together. Inhale slowly for four counts, hold for four, and then exhale for six. Repeat this a few times. Remember the 4 Ds: Delay for a few minutes, take some Deep breaths, Drink a glass of water, and Distract yourself with something engaging. You've got this!",
+          "timestamp": "2026-05-24T15:44:18.888686"
+        }
+      ]
+    },
+    {
+      "chatId": "0e9c74e5-14ac-44d1-a20f-c719bbfe9251",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: How long do nicotine cravings usually last?",
+          "timestamp": "2026-05-24T15:47:58.985333"
+        },
+        {
+          "role": "assistant",
+          "content": "I found some videos on how long nicotine cravings typically last, and we can look at those together. Generally, intense cravings only last a few minutes, even though they can feel much longer.\n\nGiven you're feeling stressed and your cravings are high today, let's focus on managing this moment. Remember the 4 Ds: **Delay** for a few minutes, take some slow, **Deep breaths**, **Drink water**, and **Distract** yourself. Deep breathing can be incredibly powerful right now to help de-escalate that urge. You're doing great by reaching out!",
+          "timestamp": "2026-05-24T15:48:06.494875"
+        }
+      ]
+    },
+    {
+      "chatId": "1008e871-294e-4e86-a099-afb363836da1",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "How long do nicotine cravings usually last?",
+          "timestamp": "2026-05-24T15:48:06.518986"
+        },
+        {
+          "role": "assistant",
+          "content": "It's great you're asking about cravings! Most intense nicotine cravings typically peak within the first 5-10 minutes.\n\nI noticed we just found some excellent videos on 'nicotine craving relief deep breathing' for you. Let's really lean into that! When a craving hits, try a few cycles of deep, slow breaths. Inhale slowly for four counts, hold for four, then exhale for six. This can really help de-escalate the urge. Remember the 4 Ds: Delay, Deep breathing, Drink water, and Distract yourself.",
+          "timestamp": "2026-05-24T15:48:25.498933"
+        }
+      ]
+    },
+    {
+      "chatId": "1a69ce24-ac31-4335-b4ec-80ce38097dce",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: do i have a high rela",
+          "timestamp": "2026-05-24T15:49:50.512524"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T15:50:21.873684"
+        }
+      ]
+    },
+    {
+      "chatId": "e564c1f1-ed3a-4ce3-8fc3-b2f83eca7c2a",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: do i have a high relapse risk",
+          "timestamp": "2026-05-24T15:49:52.882477"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T15:50:24.137762"
+        }
+      ]
+    },
+    {
+      "chatId": "7bb97d62-0a40-45b6-9556-e0cbd1cc766a",
+      "userId": "e499a7cd-4840-423e-93e0-8b513013a98e",
+      "messages": [
+        {
+          "role": "user",
+          "content": "do i have a high relapse risk",
+          "timestamp": "2026-05-24T15:49:53.371150"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T15:50:24.822038"
+        },
+        {
+          "role": "user",
+          "content": "do i have a high risk of relapse",
+          "timestamp": "2026-05-24T15:50:56.958456"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T15:51:28.282691"
+        }
+      ]
+    },
+    {
+      "chatId": "302cd6a1-1448-4934-aed5-b6a96405ec25",
+      "userId": "58c48016-028e-4cc9-97f7-b9b77cc21ddf",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-24T16:06:02.491802"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T16:06:34.979156"
+        }
+      ]
+    },
+    {
+      "chatId": "8a044ae5-6b83-49db-a795-8108f6289dad",
+      "userId": "58c48016-028e-4cc9-97f7-b9b77cc21ddf",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T16:06:03.850413"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T16:06:35.405987"
+        }
+      ]
+    },
+    {
+      "chatId": "db7fd0f4-4b2f-435f-96fb-0a7adacb8738",
+      "userId": "7002b60a-9317-4496-9a66-9a792af70031",
+      "messages": [
+        {
+          "role": "user",
+          "content": "search_videos: I'm having a strong craving right now",
+          "timestamp": "2026-05-24T19:34:15.687062"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T19:34:48.916325"
+        }
+      ]
+    },
+    {
+      "chatId": "2643335c-60a3-4b2c-8ac9-2de8bb18593b",
+      "userId": "7002b60a-9317-4496-9a66-9a792af70031",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T19:34:16.649390"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T19:34:49.440858"
+        },
+        {
+          "role": "user",
+          "content": "suggest some videos",
+          "timestamp": "2026-05-24T19:35:13.083318"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T19:35:44.485098"
+        }
+      ]
+    },
+    {
+      "chatId": "d5a77ff4-1378-4741-9a80-e488f2cd1a9b",
+      "userId": "21308b24-3980-4b93-8de7-e2975958e8e8",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T19:49:47.830002"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T19:50:20.554214"
+        },
+        {
+          "role": "user",
+          "content": "Give me a breathing exercise",
+          "timestamp": "2026-05-24T19:50:30.408522"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T19:51:01.651787"
+        },
+        {
+          "role": "user",
+          "content": "Show me videos about cravings",
+          "timestamp": "2026-05-24T19:51:09.002712"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T19:51:40.419463"
+        }
+      ]
+    },
+    {
+      "chatId": "dc97ed83-8161-4892-943c-434109a489ae",
+      "userId": "21308b24-3980-4b93-8de7-e2975958e8e8",
+      "messages": [
+        {
+          "role": "user",
+          "content": "How long do nicotine cravings usually last?",
+          "timestamp": "2026-05-24T19:52:48.757773"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T19:53:20.279735"
+        }
+      ]
+    },
+    {
+      "chatId": "14099660-32a9-4c46-b60f-8af6092a8cb1",
+      "userId": "454aa0a9-7234-4d86-ab21-3a1f61a41fbf",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving right now",
+          "timestamp": "2026-05-24T20:05:52.629878"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T20:06:25.076673"
+        }
+      ]
+    },
+    {
+      "chatId": "0e6f2d7e-9c98-4b87-a744-42cd58b564ac",
+      "userId": "45b08b0e-30c5-48d0-bbc8-fa7780047173",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T20:29:23.564286"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T20:29:55.320811"
+        }
+      ]
+    },
+    {
+      "chatId": "3faa174f-42a4-4a0c-a163-e06a3f935446",
+      "userId": "45b08b0e-30c5-48d0-bbc8-fa7780047173",
+      "messages": [
+        {
+          "role": "user",
+          "content": "How long do nicotine cravings usually last?",
+          "timestamp": "2026-05-24T20:31:50.101141"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T20:32:21.628223"
+        }
+      ]
+    },
+    {
+      "chatId": "9043365d-9da0-4e4c-a998-437eba8e5e72",
+      "userId": "45b08b0e-30c5-48d0-bbc8-fa7780047173",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What should I do when I feel like smoking?",
+          "timestamp": "2026-05-24T20:32:31.247133"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T20:33:02.941995"
+        },
+        {
+          "role": "user",
+          "content": "Show me videos about cravings",
+          "timestamp": "2026-05-24T20:36:03.917714"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-24T20:36:35.800141"
+        }
+      ]
+    },
+    {
+      "chatId": "8dbb0e55-f7f0-49e6-9829-35c3f9d9dadd",
+      "userId": "454aa0a9-7234-4d86-ab21-3a1f61a41fbf",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a strong craving right now",
+          "timestamp": "2026-05-24T20:37:46.759280"
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there, you're doing great by reaching out. Remember those 4 Ds, and know that each craving you overcome is a step closer to your goal!",
+          "timestamp": "2026-05-24T20:37:52.499643"
+        }
+      ]
+    },
+    {
+      "chatId": "cd9344dc-2114-4486-9087-52022ff32549",
+      "userId": "2c1c1c9e-4735-4bd5-aeda-a0a103fdce0f",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T20:39:33.054648"
+        },
+        {
+          "role": "assistant",
+          "content": "That's completely understandable. Those 4 D's can be really powerful. Sometimes, just having a different focus helps a lot. Here are a few videos that might offer some extra support and strategies for managing those intense cravings right now:\n\n*   \"Coping with Tobacco Triggers and Cravings\"\n*   \"How to Deal with Nicotine Cravings\"\n*   \"5 Tips to Beat Cigarette Cravings\"\n\nTake a few moments to watch one and see if it helps shift your focus. You're doing great by reaching out!",
+          "timestamp": "2026-05-24T20:39:37.929151"
+        }
+      ]
+    },
+    {
+      "chatId": "cdeca59c-c8e1-4ef7-88c4-75590fa0966b",
+      "userId": "2c1c1c9e-4735-4bd5-aeda-a0a103fdce0f",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T20:40:40.983847"
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you, a strong craving can feel really tough in the moment. Remember the \"4 Ds\": **Delay** for a few minutes, take some **Deep breaths**, **Drink water**, and **Distract** yourself.\n\nIt sounds like you're going through a lot right now. Sometimes, watching someone talk through these moments can really help. Would you like me to find a quick video on managing cravings?",
+          "timestamp": "2026-05-24T20:40:43.899549"
+        },
+        {
+          "role": "user",
+          "content": "yes",
+          "timestamp": "2026-05-24T20:40:54.833653"
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great idea. I found a few videos that might help: \"Coping with Tobacco Triggers and Cravings\", \"How to Deal with Nicotine Cravings\", and \"5 Tips to Beat Cigarette Cravings.\" Watching one of these might offer some extra support and new strategies. Remember, you're doing really well by actively seeking help in this moment.",
+          "timestamp": "2026-05-24T20:40:58.356940"
+        },
+        {
+          "role": "user",
+          "content": "Give me a breathing exercise",
+          "timestamp": "2026-05-24T21:05:29.509245"
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you. Let's try a simple, calming breathing exercise together. This can be really helpful for managing cravings and bringing a sense of calm.\n\nFind a comfortable position and gently close your eyes if you can.\n1.  **Breathe in slowly through your nose for a count of four.** Feel your belly rise as you inhale.\n2.  **Hold your breath for a count of four.**\n3.  **Exhale slowly through your mouth for a count of six,** letting all the air out.\n4.  **Pause for a count of two** before taking your next breath.\n\nRepeat this a few times. Focus on the sensation of your breath. You're doing great by taking this moment for yourself.",
+          "timestamp": "2026-05-24T21:05:34.722766"
+        },
+        {
+          "role": "user",
+          "content": "Show me videos about cravings",
+          "timestamp": "2026-05-24T21:05:59.838556"
+        },
+        {
+          "role": "assistant",
+          "content": "I understand you're looking for more support with cravings, and that's a really proactive step. I've found a few videos that might be helpful: \"Coping with Tobacco Triggers and Cravings,\" \"How to Deal with Nicotine Cravings,\" and \"5 Tips to Beat Cigarette Cravings.\"\n\nWatching one of these could offer some fresh perspectives and strategies. Remember, you've smoked 15 cigarettes today with a craving intensity of 5/10, but you're still pushing through. Taking these moments to learn and gather tools is a sign of your commitment. Keep going!",
+          "timestamp": "2026-05-24T21:06:03.618320"
+        },
+        {
+          "role": "user",
+          "content": "i am about to buy a cigratte pack",
+          "timestamp": "2026-05-24T22:04:02.975134"
+        },
+        {
+          "role": "assistant",
+          "content": "I've also found some videos about handling intense cravings that might offer some immediate support. \"Coping with Tobacco Triggers and Cravings\" or \"How to Deal with Nicotine Cravings\" could be helpful. You've got this.\n",
+          "timestamp": "2026-05-24T22:04:07.990583"
+        }
+      ]
+    },
+    {
+      "chatId": "807f8e73-ddd1-4123-bc0d-5f274199353d",
+      "userId": "316a4033-05f1-4ea1-9baf-ffb6ccc67e00",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-24T22:09:36.463686"
+        },
+        {
+          "role": "assistant",
+          "content": "Here are some videos that might help you through this craving. Remember, you're stronger than this urge, and it will pass. You've got this!",
+          "timestamp": "2026-05-24T22:09:39.879875"
+        },
+        {
+          "role": "user",
+          "content": "the videos?",
+          "timestamp": "2026-05-24T22:09:53.026586"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're looking for some extra support right now. These videos on \"Coping with Tobacco Triggers and Cravings,\" \"How to Deal with Nicotine Cravings,\" and \"5 Tips to Beat Cigarette Cravings\" might be really helpful. Remember, every craving you overcome is a step closer to your goal. You're doing great!",
+          "timestamp": "2026-05-24T22:09:55.980268"
+        }
+      ]
+    },
+    {
+      "chatId": "5d2856e4-3505-43aa-b974-5035f31037f4",
+      "userId": "3a183468-4bf5-45a3-a128-3b2983cfb1dc",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-25T05:36:48.354025"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-25T05:37:41.301324"
+        }
+      ]
+    },
+    {
+      "chatId": "81f92a30-8c70-46df-a8e4-7a1c938e6210",
+      "userId": "3a183468-4bf5-45a3-a128-3b2983cfb1dc",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-25T05:37:54.945507"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-25T05:38:26.114129"
+        }
+      ]
+    },
+    {
+      "chatId": "1234c942-0a4e-4521-9d8a-9f760efe1c6b",
+      "userId": "3a183468-4bf5-45a3-a128-3b2983cfb1dc",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm feeling anxious without cigarettes",
+          "timestamp": "2026-05-25T05:38:31.355720"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-25T05:39:02.614736"
+        }
+      ]
+    },
+    {
+      "chatId": "23365442-03ab-4b25-b262-6a7421469f3a",
+      "userId": "454aa0a9-7234-4d86-ab21-3a1f61a41fbf",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hello",
+          "timestamp": "2026-05-25T05:39:36.876859"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm right here with you. If you're encountering a tough wave of cravings, take a slow deep breath, hold it for four counts, and release it gently. Let's redirect that impulse together.",
+          "timestamp": "2026-05-25T05:40:08.304047"
+        }
+      ]
+    },
+    {
+      "chatId": "505ce078-0304-4755-a1a4-749414b454cb",
+      "userId": "454aa0a9-7234-4d86-ab21-3a1f61a41fbf",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I am having a craving",
+          "timestamp": "2026-05-25T05:53:26.025116"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're going through a tough moment, and I'm here to support you. Remember the \"4 Ds\" to help you through this craving:\n\n*   **Delay:** Wait a few minutes. Cravings usually pass.\n*   **Deep breathing:** Take slow, deep breaths to calm your mind and body.\n*   **Drink water:** Sip some water, it can help reduce the intensity.\n*   **Distract:** Shift your focus to something else you enjoy doing.\n\nYou've got this, and I'm proud of your effort!",
+          "timestamp": "2026-05-25T05:53:28.986104"
+        }
+      ]
+    },
+    {
+      "chatId": "e06b19c4-c01b-46b6-a2ec-c930cc3a5ac4",
+      "userId": "3a183468-4bf5-45a3-a128-3b2983cfb1dc",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I had a relapse yesterday",
+          "timestamp": "2026-05-25T05:53:55.838821"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm here to support you. Let's look forward. Would you like to try some deep breathing exercises now, or perhaps we can explore some distraction techniques for those boredom triggers?",
+          "timestamp": "2026-05-25T05:53:58.870861"
+        },
+        {
+          "role": "user",
+          "content": "yes",
+          "timestamp": "2026-05-25T05:54:07.022758"
+        },
+        {
+          "role": "assistant",
+          "content": "Remember, a slip doesn't erase your progress. It's a chance to learn and recommit. I've found some videos on \"relapse encouragement\" that might also be helpful. \"What to Do After a Smoking Relapse\" could offer some valuable insights right now.",
+          "timestamp": "2026-05-25T05:54:11.724237"
+        }
+      ]
+    },
+    {
+      "chatId": "ae03846c-8b0e-47b6-981b-876d92f44545",
+      "userId": "454aa0a9-7234-4d86-ab21-3a1f61a41fbf",
+      "messages": []
+    },
+    {
+      "chatId": "dd6a20a5-4d9e-439f-9ab6-1a3cd33660a3",
+      "userId": "454aa0a9-7234-4d86-ab21-3a1f61a41fbf",
+      "messages": []
+    },
+    {
+      "chatId": "152015f8-548a-4418-aff0-9c13f72ddeea",
+      "userId": "454aa0a9-7234-4d86-ab21-3a1f61a41fbf",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hello",
+          "timestamp": "2026-05-25T08:53:09.836302"
+        },
+        {
+          "role": "assistant",
+          "content": "Hi there! It's great to hear from you. I see you're feeling happy today, which is wonderful! Your cravings are at a 4/10, and you've smoked 12 cigarettes. Remember, every moment is a new opportunity to choose a different path.\n\nHow about we try a quick distraction technique if a craving pops up? You could call a friend, listen to some music, or even do a few stretches. What do you think?",
+          "timestamp": "2026-05-25T08:53:11.971961"
+        }
+      ]
+    },
+    {
+      "chatId": "1544816e-c883-4d4d-81f3-79b52f398d42",
+      "userId": "7dbb8678-8cd3-494c-a1f9-dd7f6413d953",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-25T08:55:56.295608"
+        },
+        {
+          "role": "assistant",
+          "content": "Those videos on coping with cravings and nicotine urges should provide some good strategies. Remember, you're not alone in this, and you have the strength to overcome these moments.",
+          "timestamp": "2026-05-25T08:56:00.138550"
+        }
+      ]
+    },
+    {
+      "chatId": "65891e96-3617-4865-9a7b-01bce4209294",
+      "userId": "19743fa0-c023-4def-8fe2-5d605e6b50ba",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-25T11:02:41.876688"
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you, and it's completely normal to feel strong cravings, especially when you're working so hard. Remember the '4 Ds' we've talked about?\n\n*   **Delay** for a few minutes. This feeling will pass.\n*   Take some **Deep breaths**. Focus on your breath, in through your nose, out through your mouth.\n*   **Drink water**. It can help to reset your focus.\n*   **Distract** yourself. What's something simple you can do for a few minutes to shift your attention?\n\nYou've got this. Let's get through this craving together.",
+          "timestamp": "2026-05-25T11:02:44.664336"
+        },
+        {
+          "role": "user",
+          "content": "Give me a breathing exercise",
+          "timestamp": "2026-05-25T11:02:50.271125"
+        },
+        {
+          "role": "assistant",
+          "content": "Absolutely! Let's try a simple, calming breathing exercise called \"4-7-8 breathing.\"\n\nFind a comfortable position. Now, gently place the tip of your tongue against the ridge of tissue just behind your upper front teeth, and keep it there throughout the entire exercise.\n\n*   Exhale completely through your mouth, making a \"whoosh\" sound.\n*   Close your mouth and inhale quietly through your nose to a mental count of **four**.\n*   Hold your breath for a count of **seven**.\n*   Exhale completely through your mouth, making that \"whoosh\" sound, for a count of **eight**.\n\nRepeat this cycle three more times. This can really help calm your mind and body. You're doing great!",
+          "timestamp": "2026-05-25T11:02:53.032145"
+        }
+      ]
+    },
+    {
+      "chatId": "94c685c8-faf7-4497-a6e3-e90e973759ab",
+      "userId": "19743fa0-c023-4def-8fe2-5d605e6b50ba",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-25T11:06:36.707563"
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you, and it's completely normal to feel that way sometimes, especially when you're working so hard to make a change. Remember the \"4 Ds\" to help you through this:\n\n*   **Delay:** Tell yourself you'll wait just 10 minutes.\n*   **Deep breathing:** Take a few slow, deep breaths to calm your system.\n*   **Drink water:** Sip some water, it can help reduce the urge.\n*   **Distract:** Shift your focus to something else entirely.\n\nYou've got this, one moment at a time. What can you do right now to distract yourself?",
+          "timestamp": "2026-05-25T11:06:40.283720"
+        }
+      ]
+    },
+    {
+      "chatId": "c3bae760-c0f7-435a-89c9-d15a9773b245",
+      "userId": "5d19a229-388f-4661-8f19-6d288e0a6bd9",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-25T11:19:32.090102"
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you're going through a tough moment right now with that strong craving. Remember, it's just a feeling, and it will pass. Let's try the 4 Ds together:\n\n1.  **Delay:** Can you wait just 5 minutes? Often, cravings fade if you simply delay.\n2.  **Deep breathing:** Take a few slow, deep breaths to help calm your mind.\n3.  **Drink water:** Sip some water, it can help reduce the intensity.\n4.  **Distract:** Shift your focus to something else entirely. Maybe a quick walk or a different activity.\n\nYou've done so well with your 1-day smoke-free streak! You've got this.",
+          "timestamp": "2026-05-25T11:19:34.923687"
+        },
+        {
+          "role": "user",
+          "content": "Show me videos about cravings",
+          "timestamp": "2026-05-25T11:19:38.685113"
+        },
+        {
+          "role": "assistant",
+          "content": "It's great you're proactively looking for resources to help with cravings! Here are some videos that might offer some helpful strategies:\n\n*   \"Coping with Tobacco Triggers and Cravings\"\n*   \"How to Deal with Nicotine Cravings\"\n*   \"5 Tips to Beat Cigarette Cravings\"\n\nRemember, you're not alone in this, and there are many ways to manage those urges. Keep up the amazing work on your 1-day smoke-free streak!",
+          "timestamp": "2026-05-25T11:19:42.081907"
+        }
+      ]
+    },
+    {
+      "chatId": "f1543e7a-c70a-4506-9b9a-5b09c80353fa",
+      "userId": "5d19a229-388f-4661-8f19-6d288e0a6bd9",
+      "messages": [
+        {
+          "role": "user",
+          "content": "The craving is really intense right now",
+          "timestamp": "2026-05-25T11:21:27.602761"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely understandable to feel overwhelmed when cravings hit hard, especially with the added stress. Remember those 4 D's: **Delay** for a few minutes, take some **Deep** breaths, **Drink** a glass of water, and **Distract** yourself with something else.\n\nI found some videos that might help you with \"Coping with Tobacco Triggers and Cravings\" and \"How to Deal with Nicotine Cravings.\" These can offer more strategies to help you through these moments. You're doing great by reaching out and staying committed to your journey.",
+          "timestamp": "2026-05-25T11:21:32.673293"
+        }
+      ]
+    },
+    {
+      "chatId": "fea7fc69-8681-4185-a8cf-db47e14658bb",
+      "userId": "3c18118f-5cc8-4c0b-a3d3-4d09777fe256",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm having a strong craving right now",
+          "timestamp": "2026-05-25T11:23:55.823424"
+        },
+        {
+          "role": "assistant",
+          "content": "It's great that you're reaching out during a craving. Remember, each craving you overcome strengthens your resolve. You've got this! If you'd like to talk more about specific triggers or strategies, just let me know.",
+          "timestamp": "2026-05-25T11:24:01.336100"
+        },
+        {
+          "role": "user",
+          "content": "Show me videos about cravings",
+          "timestamp": "2026-05-25T11:24:07.568582"
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely normal to experience cravings, especially when you're making such a positive change. Here are some videos that might help you find new ways to cope and reduce their intensity:\n\n*   \"Coping with Tobacco Triggers and Cravings\"\n*   \"How to Deal with Nicotine Cravings\"\n*   \"5 Tips to Beat Cigarette Cravings\"\n\nRemember, you're building a new path, and every craving you manage is a step towards a healthier you. Keep up the amazing work!",
+          "timestamp": "2026-05-25T11:24:10.751448"
+        }
+      ]
+    },
+    {
+      "chatId": "50f50bca-25fb-4fb4-8947-b309ca3f5287",
+      "userId": "3c18118f-5cc8-4c0b-a3d3-4d09777fe256",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What can I do in the next 5 minutes?",
+          "timestamp": "2026-05-25T11:25:20.167234"
+        },
+        {
+          "role": "assistant",
+          "content": "This video on \"Coping with Tobacco Triggers and Cravings\" might offer some really useful techniques you can try. You're doing great by reaching out and staying strong.",
+          "timestamp": "2026-05-25T11:25:25.155496"
+        }
+      ]
+    },
+    {
+      "chatId": "2d12bb5b-eff4-45c1-8661-edd553614c1b",
+      "userId": "3c18118f-5cc8-4c0b-a3d3-4d09777fe256",
+      "messages": [
+        {
+          "role": "user",
+          "content": "How long will this craving last?",
+          "timestamp": "2026-05-25T12:28:23.490571"
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you, and it's completely normal to wonder how long these intense cravings will last, especially when you're feeling terrible and the craving is so strong. The good news is, cravings are temporary and usually peak for a few minutes before starting to subside.\n\nRight now, let's focus on getting through this moment. Try the \"4 Ds\": **Delay** for a few minutes, take some slow, **Deep breaths** to calm your system, **Drink water**, and **Distract** yourself.\n\nSince you're feeling such intense cravings, I want to make sure you have extra support. Would you like me to find a quick video on managing cravings that you can watch right now? It might offer some great real-time relief.",
+          "timestamp": "2026-05-25T12:28:27.630577"
+        }
+      ]
+    }
+  ]
+}
